@@ -1,0 +1,7171 @@
+{
+  "items": {
+    "Cinderclown Shoes": {
+      "id": "(B)853"
+    },
+    "Combat Boots": {
+      "id": "(B)508"
+    },
+    "Cowboy Boots": {
+      "id": "(B)515"
+    },
+    "Crystal Shoes": {
+      "id": "(B)878"
+    },
+    "Dark Boots": {
+      "id": "(B)511"
+    },
+    "Dragonscale Boots": {
+      "id": "(B)855"
+    },
+    "Emily's Magic Boots": {
+      "id": "(B)804"
+    },
+    "Firewalker Boots": {
+      "id": "(B)512"
+    },
+    "Genie Shoes": {
+      "id": "(B)513"
+    },
+    "Leather Boots": {
+      "id": "(B)506"
+    },
+    "Leprechaun Shoes": {
+      "id": "(B)806"
+    },
+    "Mermaid Boots": {
+      "id": "(B)854"
+    },
+    "Rubber Boots": {
+      "id": "(B)505"
+    },
+    "Sneakers": {
+      "id": "(B)504"
+    },
+    "Space Boots": {
+      "id": "(B)514"
+    },
+    "Thermal Boots": {
+      "id": "(B)510"
+    },
+    "Tundra Boots": {
+      "id": "(B)509"
+    },
+    "Work Boots": {
+      "id": "(B)507"
+    },
+    "??Foroguemon??": {
+      "id": "(BC)162"
+    },
+    "??HMTGF??": {
+      "id": "(BC)155"
+    },
+    "??Pinky Lemon??": {
+      "id": "(BC)161"
+    },
+    "Ancient Stool": {
+      "id": "(BC)67"
+    },
+    "Ancient Table": {
+      "id": "(BC)66"
+    },
+    "Anvil": {
+      "id": "(BC)Anvil"
+    },
+    "Auto-Grabber": {
+      "id": "(BC)165"
+    },
+    "Auto-Petter": {
+      "id": "(BC)272"
+    },
+    "Bait Maker": {
+      "id": "(BC)BaitMaker"
+    },
+    "Barrel": {
+      "id": "(BC)262"
+    },
+    "Barrel Brazier": {
+      "id": "(BC)150"
+    },
+    "Basic Log": {
+      "id": "(BC)35"
+    },
+    "Bee House": {
+      "id": "(BC)10"
+    },
+    "Big Chest": {
+      "id": "(BC)BigChest"
+    },
+    "Big Green Cane": {
+      "id": "(BC)40"
+    },
+    "Big Red Cane": {
+      "id": "(BC)44"
+    },
+    "Big Stone Chest": {
+      "id": "(BC)BigStoneChest"
+    },
+    "Bone Mill": {
+      "id": "(BC)90"
+    },
+    "Bonfire": {
+      "id": "(BC)74"
+    },
+    "Bongo": {
+      "id": "(BC)75"
+    },
+    "Bookcase": {
+      "id": "(BC)64"
+    },
+    "Boulder": {
+      "id": "(BC)78"
+    },
+    "Camera": {
+      "id": "(BC)106"
+    },
+    "Campfire": {
+      "id": "(BC)278"
+    },
+    "Carved Brazier": {
+      "id": "(BC)148"
+    },
+    "Cask": {
+      "id": "(BC)163"
+    },
+    "Charcoal Kiln": {
+      "id": "(BC)114"
+    },
+    "Cheese Press": {
+      "id": "(BC)16"
+    },
+    "Chest": {
+      "id": "(BC)130"
+    },
+    "Chicken Statue": {
+      "id": "(O)113"
+    },
+    "Coffee Maker": {
+      "id": "(BC)246"
+    },
+    "Crate": {
+      "id": "(BC)263"
+    },
+    "Crystalarium": {
+      "id": "(BC)21"
+    },
+    "Cursed P.K. Arcade System": {
+      "id": "(BC)219"
+    },
+    "Dark Sign": {
+      "id": "(BC)39"
+    },
+    "Dead Tree": {
+      "id": "(BC)70"
+    },
+    "Deconstructor": {
+      "id": "(BC)265"
+    },
+    "Decorative Pitcher": {
+      "id": "(BC)111"
+    },
+    "Decorative Spears": {
+      "id": "(BC)76"
+    },
+    "Dehydrator": {
+      "id": "(BC)Dehydrator"
+    },
+    "Deluxe Scarecrow": {
+      "id": "(BC)167"
+    },
+    "Deluxe Worm Bin": {
+      "id": "(BC)DeluxeWormBin"
+    },
+    "Door": {
+      "id": "(BC)80"
+    },
+    "Dried Sunflowers": {
+      "id": "(F)1307"
+    },
+    "Empty Capsule": {
+      "id": "(BC)98"
+    },
+    "Fancy Table": {
+      "id": "(BC)65"
+    },
+    "Farm Computer": {
+      "id": "(BC)239"
+    },
+    "Feed Hopper": {
+      "id": "(BC)99"
+    },
+    "Fish Smoker": {
+      "id": "(BC)FishSmoker"
+    },
+    "Furnace": {
+      "id": "(BC)13"
+    },
+    "Garden Pot": {
+      "id": "(BC)62"
+    },
+    "Geode Crusher": {
+      "id": "(BC)182"
+    },
+    "Gold Brazier": {
+      "id": "(BC)145"
+    },
+    "Grandfather Clock": {
+      "id": "(BC)68"
+    },
+    "Grave Stone": {
+      "id": "(BC)47"
+    },
+    "Green Canes": {
+      "id": "(BC)41"
+    },
+    "Heater": {
+      "id": "(BC)104"
+    },
+    "Heavy Furnace": {
+      "id": "(BC)HeavyFurnace"
+    },
+    "Heavy Tapper": {
+      "id": "(BC)264"
+    },
+    "Hopper": {
+      "id": "(BC)275"
+    },
+    "House Plant": {
+      "id": "(F)FancyHousePlant5"
+    },
+    "Incubator": {
+      "id": "(BC)101"
+    },
+    "Iron Lamp-post": {
+      "id": "(BC)153"
+    },
+    "Item Pedestal": {
+      "id": "(BC)221"
+    },
+    "Junimo Chest": {
+      "id": "(BC)256"
+    },
+    "Junimo Kart Arcade System": {
+      "id": "(BC)159"
+    },
+    "Keg": {
+      "id": "(BC)12"
+    },
+    "Lawn Flamingo": {
+      "id": "(BC)36"
+    },
+    "Lightning Rod": {
+      "id": "(BC)9"
+    },
+    "Locked Door": {
+      "id": "(BC)82"
+    },
+    "Log Section": {
+      "id": "(BC)46"
+    },
+    "Loom": {
+      "id": "(BC)17"
+    },
+    "Marble Brazier": {
+      "id": "(BC)151"
+    },
+    "Mayonnaise Machine": {
+      "id": "(BC)24"
+    },
+    "Mini-Forge": {
+      "id": "(BC)MiniForge"
+    },
+    "Mini-Fridge": {
+      "id": "(BC)216"
+    },
+    "Mini-Jukebox": {
+      "id": "(BC)209"
+    },
+    "Mini-Obelisk": {
+      "id": "(BC)238"
+    },
+    "Mini-Shipping Bin": {
+      "id": "(BC)248"
+    },
+    "Mixed Cane": {
+      "id": "(BC)42"
+    },
+    "Mushroom Box": {
+      "id": "(BC)128"
+    },
+    "Mushroom Log": {
+      "id": "(BC)MushroomLog"
+    },
+    "Obelisk": {
+      "id": "(BC)29"
+    },
+    "Obsidian Vase": {
+      "id": "(F)1299"
+    },
+    "Oil Maker": {
+      "id": "(BC)19"
+    },
+    "Ornamental Hay Bale": {
+      "id": "(BC)45"
+    },
+    "Ostrich Incubator": {
+      "id": "(BC)254"
+    },
+    "Plush Bunny": {
+      "id": "(BC)107"
+    },
+    "Prairie King Arcade System": {
+      "id": "(BC)141"
+    },
+    "Preserves Jar": {
+      "id": "(BC)15"
+    },
+    "Rarecrow": {
+      "id": "(BC)140"
+    },
+    "Recycling Machine": {
+      "id": "(BC)20"
+    },
+    "Red Canes": {
+      "id": "(BC)43"
+    },
+    "Ritual Mask": {
+      "id": "(BC)73"
+    },
+    "Scarecrow": {
+      "id": "(BC)8"
+    },
+    "Seasonal Decor": {
+      "id": "(BC)48"
+    },
+    "Seasonal Plant": {
+      "id": "(BC)204"
+    },
+    "Seed Maker": {
+      "id": "(BC)25"
+    },
+    "Sewing Machine": {
+      "id": "(BC)247"
+    },
+    "Sign Of The Vessel": {
+      "id": "(BC)34"
+    },
+    "Singing Stone": {
+      "id": "(F)1300"
+    },
+    "Skeleton Model": {
+      "id": "(BC)28"
+    },
+    "Skull Brazier": {
+      "id": "(BC)149"
+    },
+    "Slime Ball": {
+      "id": "(BC)56"
+    },
+    "Slime Egg-Press": {
+      "id": "(BC)158"
+    },
+    "Slime Incubator": {
+      "id": "(BC)156"
+    },
+    "Sloth Skeleton L": {
+      "id": "(F)1301"
+    },
+    "Sloth Skeleton M": {
+      "id": "(F)1302"
+    },
+    "Sloth Skeleton R": {
+      "id": "(F)1303"
+    },
+    "Soda Machine": {
+      "id": "(BC)117"
+    },
+    "Solar Panel": {
+      "id": "(BC)231"
+    },
+    "Solid Gold Lewis": {
+      "id": "(BC)164"
+    },
+    "Staircase": {
+      "id": "(BC)71"
+    },
+    "Standing Geode": {
+      "id": "(F)1298"
+    },
+    "Stardew Hero Trophy": {
+      "id": "(BC)116"
+    },
+    "Statue Of Blessings": {
+      "id": "(BC)StatueOfBlessings"
+    },
+    "Statue Of Endless Fortune": {
+      "id": "(BC)127"
+    },
+    "Statue Of Perfection": {
+      "id": "(BC)160"
+    },
+    "Statue Of The Dwarf King": {
+      "id": "(BC)StatueOfTheDwarfKing"
+    },
+    "Statue Of True Perfection": {
+      "id": "(BC)280"
+    },
+    "Stone Brazier": {
+      "id": "(BC)144"
+    },
+    "Stone Cairn": {
+      "id": "(BC)32"
+    },
+    "Stone Chest": {
+      "id": "(BC)232"
+    },
+    "Stone Frog": {
+      "id": "(BC)52"
+    },
+    "Stone Junimo": {
+      "id": "(BC)55"
+    },
+    "Stone Owl": {
+      "id": "(BC)95"
+    },
+    "Stone Parrot": {
+      "id": "(BC)53"
+    },
+    "Stone Sign": {
+      "id": "(BC)38"
+    },
+    "Strange Capsule": {
+      "id": "(BC)96"
+    },
+    "Stump Brazier": {
+      "id": "(BC)147"
+    },
+    "Suit Of Armor": {
+      "id": "(BC)33"
+    },
+    "Table Piece L": {
+      "id": "(BC)22"
+    },
+    "Table Piece R": {
+      "id": "(BC)23"
+    },
+    "Tall Torch": {
+      "id": "(BC)72"
+    },
+    "Tapper": {
+      "id": "(BC)105"
+    },
+    "Teddy Timer": {
+      "id": "(BC)69"
+    },
+    "Telephone": {
+      "id": "(BC)214"
+    },
+    "Text Sign": {
+      "id": "(BC)TextSign"
+    },
+    "Tub o' Flowers": {
+      "id": "(BC)108"
+    },
+    "Wicked Statue": {
+      "id": "(BC)84"
+    },
+    "Wood Chair": {
+      "id": "(BC)27"
+    },
+    "Wood Chipper": {
+      "id": "(BC)211"
+    },
+    "Wood Lamp-post": {
+      "id": "(BC)152"
+    },
+    "Wood Sign": {
+      "id": "(BC)37"
+    },
+    "Wooden Brazier": {
+      "id": "(BC)143"
+    },
+    "Workbench": {
+      "id": "(BC)208"
+    },
+    "Worm Bin": {
+      "id": "(BC)154"
+    },
+    "1000 Years From Now'": {
+      "id": "(F)1846"
+    },
+    "A Night On Eco-Hill'": {
+      "id": "(F)1541"
+    },
+    "Blue City'": {
+      "id": "(F)1604"
+    },
+    "Blueberries'": {
+      "id": "(F)1603"
+    },
+    "Boat'": {
+      "id": "(F)2421"
+    },
+    "Burnt Offering'": {
+      "id": "(F)1545"
+    },
+    "Clouds'": {
+      "id": "(F)1844"
+    },
+    "Dancing Grass'": {
+      "id": "(F)1606"
+    },
+    "Frozen Dreams'": {
+      "id": "(F)2730"
+    },
+    "Highway 89'": {
+      "id": "(F)1563"
+    },
+    "It Howls In The Rain'": {
+      "id": "(F)1959"
+    },
+    "Jade Hills Extended'": {
+      "id": "(F)2584"
+    },
+    "Jade Hills'": {
+      "id": "(F)1554"
+    },
+    "Journey Of The Prairie King: The Motion Picture'": {
+      "id": "(F)1954"
+    },
+    "Kitemaster '95'": {
+      "id": "(F)1612"
+    },
+    "Land Of Clay'": {
+      "id": "(F)1854"
+    },
+    "Little Tree'": {
+      "id": "(F)1602"
+    },
+    "Mysterium'": {
+      "id": "(F)1953"
+    },
+    "Natural Wonders: Exploring Our Vibrant World'": {
+      "id": "(F)1958"
+    },
+    "Pathways'": {
+      "id": "(F)1543"
+    },
+    "Physics 101'": {
+      "id": "(F)2732"
+    },
+    "Portrait Of A Mermaid'": {
+      "id": "(F)1840"
+    },
+    "Primal Motion'": {
+      "id": "(F)1552"
+    },
+    "Queen of the Gem Sea'": {
+      "id": "(F)1547"
+    },
+    "Red Eagle'": {
+      "id": "(F)1838"
+    },
+    "Solar Kingdom'": {
+      "id": "(F)1842"
+    },
+    "Spires'": {
+      "id": "(F)1561"
+    },
+    "Squid Kid'": {
+      "id": "(F)SquidKid_Painting"
+    },
+    "Sun #44'": {
+      "id": "(F)1557"
+    },
+    "Sun #45'": {
+      "id": "(F)1601"
+    },
+    "The Brave Little Sapling'": {
+      "id": "(F)1952"
+    },
+    "The Miracle At Coldstar Ranch'": {
+      "id": "(F)1957"
+    },
+    "The Muzzamaroo'": {
+      "id": "(F)1539"
+    },
+    "The Serpent'": {
+      "id": "(F)1850"
+    },
+    "The Zuzu City Express'": {
+      "id": "(F)1956"
+    },
+    "Three Trees'": {
+      "id": "(F)1848"
+    },
+    "Tropical Fish #173'": {
+      "id": "(F)1852"
+    },
+    "Vanilla Villa'": {
+      "id": "(F)1550"
+    },
+    "VGA Paradise'": {
+      "id": "(F)1607"
+    },
+    "Vista'": {
+      "id": "(F)2423"
+    },
+    "Volcano' Photo": {
+      "id": "(F)2329"
+    },
+    "Wumbus'": {
+      "id": "(F)1955"
+    },
+    "AbigailPortrait": {
+      "id": "(F)AbigailPortrait"
+    },
+    "Abstract": {
+      "id": "(F)Abstract"
+    },
+    "AlexPortrait": {
+      "id": "(F)AlexPortrait"
+    },
+    "AluminumCan": {
+      "id": "(F)AluminumCan"
+    },
+    "AmethystCrystalBall": {
+      "id": "(F)AmethystCrystalBall"
+    },
+    "Anchor": {
+      "id": "(O)117"
+    },
+    "AquamarineCrystalBall": {
+      "id": "(F)AquamarineCrystalBall"
+    },
+    "Aquatic Sanctuary": {
+      "id": "(F)2400"
+    },
+    "Art Photo": {
+      "id": "(F)ArtPhoto"
+    },
+    "Art Photo 2": {
+      "id": "(F)ArtPhoto2"
+    },
+    "Artist Bookcase": {
+      "id": "(F)1283"
+    },
+    "Bamboo Mat": {
+      "id": "(F)1755"
+    },
+    "Basic Window": {
+      "id": "(F)1614"
+    },
+    "Bear Statue": {
+      "id": "(F)1671"
+    },
+    "Bed": {
+      "id": "(F)2048"
+    },
+    "Binary": {
+      "id": "(F)Binary"
+    },
+    "Birch Bench": {
+      "id": "(F)202"
+    },
+    "Birch Chair": {
+      "id": "(F)6"
+    },
+    "Birch Double Bed": {
+      "id": "(F)2508"
+    },
+    "Birch Dresser": {
+      "id": "(F)714"
+    },
+    "Birch End Table": {
+      "id": "(F)1395"
+    },
+    "Birch Table": {
+      "id": "(F)1124"
+    },
+    "Birch Tea-Table": {
+      "id": "(F)1220"
+    },
+    "BirchLampEndTable": {
+      "id": "(F)BirchLampEndTable"
+    },
+    "BirdHouse": {
+      "id": "(F)BirdHouse"
+    },
+    "BlackCushion": {
+      "id": "(F)BlackCushion"
+    },
+    "Blossom Rug": {
+      "id": "(F)2742"
+    },
+    "Blue Armchair": {
+      "id": "(F)288"
+    },
+    "Blue Couch": {
+      "id": "(F)416"
+    },
+    "Blue Diner Chair": {
+      "id": "(F)15"
+    },
+    "Blue Pinstripe Bed": {
+      "id": "(F)BluePinstripeBed"
+    },
+    "Blue Pinstripe Double Bed": {
+      "id": "(F)BluePinstripeDoubleBed"
+    },
+    "Blue Stool": {
+      "id": "(F)95"
+    },
+    "BlueBook": {
+      "id": "(F)BlueBook"
+    },
+    "BlueBottle": {
+      "id": "(F)BlueBottle"
+    },
+    "BlueCushion": {
+      "id": "(F)BlueCushion"
+    },
+    "BlueSleepingJunimo": {
+      "id": "(F)BlueSleepingJunimo"
+    },
+    "Boarded Window": {
+      "id": "(F)1630"
+    },
+    "Bobo Statue": {
+      "id": "(F)1373"
+    },
+    "Bone Rug": {
+      "id": "(F)1964"
+    },
+    "Bonsai Tree": {
+      "id": "(F)1748"
+    },
+    "BookPile": {
+      "id": "(F)BookPile"
+    },
+    "BookStack": {
+      "id": "(F)BookStack"
+    },
+    "BountifulDiningTable": {
+      "id": "(F)BountifulDiningTable"
+    },
+    "Box Lamp": {
+      "id": "(F)1445"
+    },
+    "Breakfast Chair": {
+      "id": "(F)21"
+    },
+    "Brick Fireplace": {
+      "id": "(F)1792"
+    },
+    "BrochureCabinet": {
+      "id": "(F)BrochureCabinet"
+    },
+    "BrokenTelevision": {
+      "id": "(F)BrokenTelevision"
+    },
+    "Brown Armchair": {
+      "id": "(F)312"
+    },
+    "Brown Couch": {
+      "id": "(F)512"
+    },
+    "BrownBook": {
+      "id": "(F)BrownBook"
+    },
+    "BrownCushion": {
+      "id": "(F)BrownCushion"
+    },
+    "Budget TV": {
+      "id": "(F)1466"
+    },
+    "BulletinBoard": {
+      "id": "(F)BulletinBoard"
+    },
+    "BuriedTire": {
+      "id": "(F)BuriedTire"
+    },
+    "Burlap Rug": {
+      "id": "(F)1742"
+    },
+    "Butterfly Hutch": {
+      "id": "(F)1971"
+    },
+    "Cactus": {
+      "id": "(F)FreeCactus"
+    },
+    "Calendar": {
+      "id": "(F)1402"
+    },
+    "Calico Falls": {
+      "id": "(F)1565"
+    },
+    "Calico Statue": {
+      "id": "(F)CatStatue"
+    },
+    "Candle Lamp": {
+      "id": "(F)1751"
+    },
+    "Candy Table": {
+      "id": "(F)1146"
+    },
+    "Carved Window": {
+      "id": "(F)1682"
+    },
+    "CashRegister": {
+      "id": "(F)CashRegister"
+    },
+    "Catalogue": {
+      "id": "(F)1308"
+    },
+    "CatTree": {
+      "id": "(F)CatTree"
+    },
+    "Cauldron": {
+      "id": "(F)Cauldron"
+    },
+    "CCFishTank": {
+      "id": "(F)CCFishTank"
+    },
+    "Ceiling Flags": {
+      "id": "(F)1814"
+    },
+    "Ceiling Leaves": {
+      "id": "(F)1821"
+    },
+    "Ceramic Pillar": {
+      "id": "(F)1291"
+    },
+    "Checkers": {
+      "id": "(F)Checkers"
+    },
+    "Chicken Decal": {
+      "id": "(F)ChickenDecal"
+    },
+    "Child Bed": {
+      "id": "(F)2076"
+    },
+    "China Cabinet": {
+      "id": "(F)1280"
+    },
+    "CircularJunimoRug": {
+      "id": "(F)CircularJunimoRug"
+    },
+    "Classic Lamp": {
+      "id": "(F)1449"
+    },
+    "Clothesline": {
+      "id": "(F)Clothesline"
+    },
+    "Cloud Decal": {
+      "id": "(F)1692"
+    },
+    "Clouds Banner": {
+      "id": "(F)1975"
+    },
+    "CoatStand": {
+      "id": "(F)CoatStand"
+    },
+    "Coffee Table": {
+      "id": "(F)724"
+    },
+    "Colorful Set": {
+      "id": "(F)1684"
+    },
+    "CommunityCenter": {
+      "id": "(F)CommunityCenter"
+    },
+    "CornPlant": {
+      "id": "(F)CornPlant"
+    },
+    "Country Chair": {
+      "id": "(F)18"
+    },
+    "Country Lamp": {
+      "id": "(F)1443"
+    },
+    "CoupleElixirs": {
+      "id": "(F)CoupleElixirs"
+    },
+    "Cow Decal": {
+      "id": "(F)CowDecal"
+    },
+    "Crystal Chair": {
+      "id": "(F)131"
+    },
+    "CrystalBall": {
+      "id": "(F)CrystalBall"
+    },
+    "CurlyTree": {
+      "id": "(F)CurlyTree"
+    },
+    "Cute Chair": {
+      "id": "(F)85"
+    },
+    "Dark Bookcase": {
+      "id": "(F)1289"
+    },
+    "Dark Couch": {
+      "id": "(F)520"
+    },
+    "Dark Piano": {
+      "id": "(F)DarkPiano"
+    },
+    "Dark Rug": {
+      "id": "(F)1461"
+    },
+    "Dark Table": {
+      "id": "(F)1150"
+    },
+    "Dark Throne": {
+      "id": "(F)64"
+    },
+    "DarkCatTree": {
+      "id": "(F)DarkCatTree"
+    },
+    "DarkDoghouse": {
+      "id": "(F)DarkDoghouse"
+    },
+    "DarkJunimoCushion": {
+      "id": "(F)DarkJunimoCushion"
+    },
+    "DarkLeafyWallPanel": {
+      "id": "(F)DarkLeafyWallPanel"
+    },
+    "DarkRetroCushion": {
+      "id": "(F)DarkRetroCushion"
+    },
+    "DarkWizardCushion": {
+      "id": "(F)DarkWizardCushion"
+    },
+    "Decorative Axe": {
+      "id": "(F)2634"
+    },
+    "Decorative Barrel": {
+      "id": "(F)DecorativeBarrel"
+    },
+    "Decorative Bowl": {
+      "id": "(F)1364"
+    },
+    "Decorative Lantern": {
+      "id": "(F)1369"
+    },
+    "Decorative Pitchfork": {
+      "id": "(F)2632"
+    },
+    "Decorative Trash Can": {
+      "id": "(F)2427"
+    },
+    "DecorativeDoor1": {
+      "id": "(F)DecorativeDoor1"
+    },
+    "DecorativeDoor2": {
+      "id": "(F)DecorativeDoor2"
+    },
+    "DecorativeDoor3": {
+      "id": "(F)DecorativeDoor3"
+    },
+    "DecorativeDoor4": {
+      "id": "(F)DecorativeDoor4"
+    },
+    "DecorativeDoor5": {
+      "id": "(F)DecorativeDoor5"
+    },
+    "DecorativeDoor6": {
+      "id": "(F)DecorativeDoor6"
+    },
+    "DecorativeHatch": {
+      "id": "(F)DecorativeHatch"
+    },
+    "DecorativeJojaDoor": {
+      "id": "(F)DecorativeJojaDoor"
+    },
+    "DecorativeJunimoDoor": {
+      "id": "(F)DecorativeJunimoDoor"
+    },
+    "DecorativeOakLadder": {
+      "id": "(F)DecorativeOakLadder"
+    },
+    "DecorativeRetroDoor": {
+      "id": "(F)DecorativeRetroDoor"
+    },
+    "DecorativeShovel": {
+      "id": "(F)DecorativeShovel"
+    },
+    "DecorativeSword": {
+      "id": "(F)DecorativeSword"
+    },
+    "DecorativeWalnutLadder": {
+      "id": "(F)DecorativeWalnutLadder"
+    },
+    "DecorativeWizardDoor": {
+      "id": "(F)DecorativeWizardDoor"
+    },
+    "Deluxe Fish Tank": {
+      "id": "(F)2312"
+    },
+    "Deluxe Red Double Bed": {
+      "id": "(F)2186"
+    },
+    "Deluxe Tree": {
+      "id": "(F)989"
+    },
+    "Desert Chair": {
+      "id": "(F)DesertChair"
+    },
+    "Desert End Table": {
+      "id": "(F)DesertEndTable"
+    },
+    "Desert Fireplace": {
+      "id": "(F)DesertFireplace"
+    },
+    "Desert Flags": {
+      "id": "(F)DesertFlags"
+    },
+    "Desert Rug": {
+      "id": "(F)DesertRug"
+    },
+    "Desert Table": {
+      "id": "(F)DesertTable"
+    },
+    "Dining Chair": {
+      "id": "(F)70"
+    },
+    "Diviner Table": {
+      "id": "(F)1138"
+    },
+    "Doghouse": {
+      "id": "(F)Doghouse"
+    },
+    "Double Bed": {
+      "id": "(F)2052"
+    },
+    "Dusty Skull": {
+      "id": "(F)DustySkull"
+    },
+    "Elegant Fireplace": {
+      "id": "(F)1866"
+    },
+    "ElegantVase": {
+      "id": "(F)ElegantVase"
+    },
+    "ElixirBundle": {
+      "id": "(F)ElixirBundle"
+    },
+    "ElixirShelf": {
+      "id": "(F)ElixirShelf"
+    },
+    "ElixirTable": {
+      "id": "(F)ElixirTable"
+    },
+    "ElliottPortrait": {
+      "id": "(F)ElliottPortrait"
+    },
+    "EmeraldCrystalBall": {
+      "id": "(F)EmeraldCrystalBall"
+    },
+    "EmilyPortrait": {
+      "id": "(F)EmilyPortrait"
+    },
+    "Exotic Double Bed": {
+      "id": "(F)2514"
+    },
+    "Exotic Palace": {
+      "id": "(F)ExoticPalace"
+    },
+    "Exotic Tree": {
+      "id": "(F)986"
+    },
+    "FallenBlueBook": {
+      "id": "(F)FallenBlueBook"
+    },
+    "FallenBrownBook": {
+      "id": "(F)FallenBrownBook"
+    },
+    "FallenGreenBook": {
+      "id": "(F)FallenGreenBook"
+    },
+    "FallenPurpleBook": {
+      "id": "(F)FallenPurpleBook"
+    },
+    "FallenRedBook": {
+      "id": "(F)FallenRedBook"
+    },
+    "FallenYellowBook": {
+      "id": "(F)FallenYellowBook"
+    },
+    "Fancy House Plant": {
+      "id": "(F)FancyTree3"
+    },
+    "Festive Dining Table": {
+      "id": "(F)807"
+    },
+    "Fisher Double Bed": {
+      "id": "(F)2502"
+    },
+    "Floor Divider L": {
+      "id": "(F)2652"
+    },
+    "Floor Divider R": {
+      "id": "(F)2651"
+    },
+    "Floor TV": {
+      "id": "(F)1680"
+    },
+    "Foliage Print": {
+      "id": "(F)2419"
+    },
+    "FoodPetBowl": {
+      "id": "(F)FoodPetBowl"
+    },
+    "Fruit Salad Rug": {
+      "id": "(F)1909"
+    },
+    "Funky Rug": {
+      "id": "(F)2870"
+    },
+    "Furniture Catalogue": {
+      "id": "(F)1226"
+    },
+    "Futan Bear": {
+      "id": "(F)1365"
+    },
+    "Futan Rabbit": {
+      "id": "(F)1764"
+    },
+    "Globe": {
+      "id": "(F)1366"
+    },
+    "Glyph": {
+      "id": "(F)Glyph"
+    },
+    "Gold Pillar": {
+      "id": "(F)1292"
+    },
+    "Gourmand Statue": {
+      "id": "(F)2332"
+    },
+    "Grandmother End Table": {
+      "id": "(F)1400"
+    },
+    "GrayJojaBookcase": {
+      "id": "(F)GrayJojaBookcase"
+    },
+    "GrayJojaCoffeeTable": {
+      "id": "(F)GrayJojaCoffeeTable"
+    },
+    "GrayJojaCushion": {
+      "id": "(F)GrayJojaCushion"
+    },
+    "GrayJojaDresser": {
+      "id": "(F)GrayJojaDresser"
+    },
+    "GrayJojaEndTable": {
+      "id": "(F)GrayJojaEndTable"
+    },
+    "GraySleepingJunimo": {
+      "id": "(F)GraySleepingJunimo"
+    },
+    "Green Armchair": {
+      "id": "(F)300"
+    },
+    "Green Cottage Rug": {
+      "id": "(F)1623"
+    },
+    "Green Couch": {
+      "id": "(F)432"
+    },
+    "Green Office Stool": {
+      "id": "(F)30"
+    },
+    "Green Plush Seat": {
+      "id": "(F)73"
+    },
+    "Green Serpent Statue": {
+      "id": "(F)1471"
+    },
+    "Green Stool": {
+      "id": "(F)94"
+    },
+    "GreenBook": {
+      "id": "(F)GreenBook"
+    },
+    "GreenBottle": {
+      "id": "(F)GreenBottle"
+    },
+    "GreenCushion": {
+      "id": "(F)GreenCushion"
+    },
+    "GreenSleepingJunimo": {
+      "id": "(F)GreenSleepingJunimo"
+    },
+    "Groovy": {
+      "id": "(F)Groovy"
+    },
+    "Groovy Chair": {
+      "id": "(F)82"
+    },
+    "HaleyPortrait": {
+      "id": "(F)HaleyPortrait"
+    },
+    "Hanging Fish": {
+      "id": "(F)HangingFish"
+    },
+    "Hanging Shield": {
+      "id": "(F)1811"
+    },
+    "HarveyPortrait": {
+      "id": "(F)HarveyPortrait"
+    },
+    "Hut": {
+      "id": "(F)Hut"
+    },
+    "Icy Banner": {
+      "id": "(F)2653"
+    },
+    "Icy Rug": {
+      "id": "(F)2790"
+    },
+    "Indoor Hanging Basket": {
+      "id": "(F)1960"
+    },
+    "Indoor Palm": {
+      "id": "(F)1294"
+    },
+    "Industrial Pipe": {
+      "id": "(F)1293"
+    },
+    "Iridium Fireplace": {
+      "id": "(F)1796"
+    },
+    "Iridium Krobus": {
+      "id": "(F)2396"
+    },
+    "J": {
+      "id": "(F)J"
+    },
+    "J. Cola Light": {
+      "id": "(F)1609"
+    },
+    "JLight": {
+      "id": "(F)JLight"
+    },
+    "JojaBed": {
+      "id": "(F)JojaBed"
+    },
+    "JojaBookcase": {
+      "id": "(F)JojaBookcase"
+    },
+    "JojaCatalogue": {
+      "id": "(F)JojaCatalogue"
+    },
+    "JojaChair": {
+      "id": "(F)JojaChair"
+    },
+    "JojaCoffeeTable": {
+      "id": "(F)JojaCoffeeTable"
+    },
+    "JojaColaCans": {
+      "id": "(F)JojaColaCans"
+    },
+    "JojaColaFridge": {
+      "id": "(F)JojaColaFridge"
+    },
+    "JojaColaOrnament": {
+      "id": "(F)JojaColaOrnament"
+    },
+    "JojaColaPainting": {
+      "id": "(F)JojaColaPainting"
+    },
+    "JojaColaTeaTable": {
+      "id": "(F)JojaColaTeaTable"
+    },
+    "JojaCouch": {
+      "id": "(F)JojaCouch"
+    },
+    "JojaCrate": {
+      "id": "(F)JojaCrate"
+    },
+    "JojaCushion": {
+      "id": "(F)JojaCushion"
+    },
+    "JojaDresser": {
+      "id": "(F)JojaDresser"
+    },
+    "JojaEndTable": {
+      "id": "(F)JojaEndTable"
+    },
+    "JojaFireplace": {
+      "id": "(F)JojaFireplace"
+    },
+    "JojaHQPainting": {
+      "id": "(F)JojaHQPainting"
+    },
+    "JojaLamp": {
+      "id": "(F)JojaLamp"
+    },
+    "JojaRug": {
+      "id": "(F)JojaRug"
+    },
+    "JojaShoppingCart": {
+      "id": "(F)JojaShoppingCart"
+    },
+    "JojaStool": {
+      "id": "(F)JojaStool"
+    },
+    "JojaTable": {
+      "id": "(F)JojaTable"
+    },
+    "JojaVault": {
+      "id": "(F)JojaVault"
+    },
+    "JPainting": {
+      "id": "(F)JPainting"
+    },
+    "Jungle Decal": {
+      "id": "(F)2630"
+    },
+    "Jungle Torch": {
+      "id": "(F)2331"
+    },
+    "JungleTank": {
+      "id": "(F)JungleTank"
+    },
+    "Junimo Plush": {
+      "id": "(F)1733"
+    },
+    "JunimoBag": {
+      "id": "(F)JunimoBag"
+    },
+    "JunimoBed": {
+      "id": "(F)JunimoBed"
+    },
+    "JunimoBookcase": {
+      "id": "(F)JunimoBookcase"
+    },
+    "JunimoBundle": {
+      "id": "(F)JunimoBundle"
+    },
+    "JunimoCatalogue": {
+      "id": "(F)JunimoCatalogue"
+    },
+    "JunimoChair": {
+      "id": "(F)JunimoChair"
+    },
+    "JunimoCouch": {
+      "id": "(F)JunimoCouch"
+    },
+    "JunimoCushion": {
+      "id": "(F)JunimoCushion"
+    },
+    "JunimoDresser": {
+      "id": "(F)JunimoDresser"
+    },
+    "JunimoEndTable": {
+      "id": "(F)JunimoEndTable"
+    },
+    "JunimoFireplace": {
+      "id": "(F)JunimoFireplace"
+    },
+    "JunimoFlower": {
+      "id": "(F)JunimoFlower"
+    },
+    "JunimoHut": {
+      "id": "(F)JunimoHut"
+    },
+    "JunimoLamp": {
+      "id": "(F)JunimoLamp"
+    },
+    "JunimoMat": {
+      "id": "(F)JunimoMat"
+    },
+    "JunimoPlant": {
+      "id": "(F)JunimoPlant"
+    },
+    "JunimoPlaque": {
+      "id": "(F)JunimoPlaque"
+    },
+    "JunimoPot": {
+      "id": "(F)JunimoPot"
+    },
+    "JunimoRug": {
+      "id": "(F)JunimoRug"
+    },
+    "JunimoStar": {
+      "id": "(F)JunimoStar"
+    },
+    "JunimoStool": {
+      "id": "(F)JunimoStool"
+    },
+    "JunimoTable": {
+      "id": "(F)JunimoTable"
+    },
+    "JunimoTeaTable": {
+      "id": "(F)JunimoTeaTable"
+    },
+    "JunimoTree": {
+      "id": "(F)JunimoTree"
+    },
+    "JunimoWallPlaque": {
+      "id": "(F)JunimoWallPlaque"
+    },
+    "King Chair": {
+      "id": "(F)128"
+    },
+    "KrobusPortrait": {
+      "id": "(F)KrobusPortrait"
+    },
+    "L. Light String": {
+      "id": "(F)1745"
+    },
+    "Large Brown Couch": {
+      "id": "(F)2720"
+    },
+    "Large Cottage Rug": {
+      "id": "(F)2802"
+    },
+    "Large Fish Tank": {
+      "id": "(F)2304"
+    },
+    "Large Green Rug": {
+      "id": "(F)2784"
+    },
+    "Large Red Rug": {
+      "id": "(F)2798"
+    },
+    "LargeBookPile": {
+      "id": "(F)LargeBookPile"
+    },
+    "LargeBookStack": {
+      "id": "(F)LargeBookStack"
+    },
+    "LargeJojaCrate": {
+      "id": "(F)LargeJojaCrate"
+    },
+    "LargeJojaRug": {
+      "id": "(F)LargeJojaRug"
+    },
+    "LargeJunimoHut": {
+      "id": "(F)LargeJunimoHut"
+    },
+    "LargeRetroRug": {
+      "id": "(F)LargeRetroRug"
+    },
+    "LargeWizardBookcase": {
+      "id": "(F)LargeWizardBookcase"
+    },
+    "LeafyPlant": {
+      "id": "(F)LeafyPlant"
+    },
+    "LeafyWallPanel": {
+      "id": "(F)LeafyWallPanel"
+    },
+    "Leah's Sculpture": {
+      "id": "(F)1306"
+    },
+    "LeahPortrait": {
+      "id": "(F)LeahPortrait"
+    },
+    "Lg. Futan Bear": {
+      "id": "(F)1669"
+    },
+    "Lifesaver": {
+      "id": "(F)2418"
+    },
+    "Light Green Rug": {
+      "id": "(F)2488"
+    },
+    "LightLeafyWallPanel": {
+      "id": "(F)LightLeafyWallPanel"
+    },
+    "LightSwitch": {
+      "id": "(F)LightSwitch"
+    },
+    "Little Photos": {
+      "id": "(F)1605"
+    },
+    "LittleBuddies": {
+      "id": "(F)LittleBuddies"
+    },
+    "Log Panel": {
+      "id": "(F)2636"
+    },
+    "Long Cactus": {
+      "id": "(F)984"
+    },
+    "Long Palm": {
+      "id": "(F)985"
+    },
+    "LongElixirTable": {
+      "id": "(F)LongElixirTable"
+    },
+    "Luau Table": {
+      "id": "(F)1148"
+    },
+    "Luxury Bookcase": {
+      "id": "(F)1285"
+    },
+    "Luxury Table": {
+      "id": "(F)1136"
+    },
+    "Mahogany Bench": {
+      "id": "(F)207"
+    },
+    "Mahogany Chair": {
+      "id": "(F)9"
+    },
+    "Mahogany Dining Table": {
+      "id": "(F)814"
+    },
+    "Mahogany Dresser": {
+      "id": "(F)719"
+    },
+    "Mahogany End Table": {
+      "id": "(F)1397"
+    },
+    "Mahogany Table": {
+      "id": "(F)1126"
+    },
+    "Mahogany Tea-Table": {
+      "id": "(F)1222"
+    },
+    "MahoganyLampEndTable": {
+      "id": "(F)MahoganyLampEndTable"
+    },
+    "Manicured Pine": {
+      "id": "(F)1296"
+    },
+    "MaruPortrait": {
+      "id": "(F)MaruPortrait"
+    },
+    "MessyShirt": {
+      "id": "(F)MessyShirt"
+    },
+    "MessyShorts": {
+      "id": "(F)MessyShorts"
+    },
+    "Metal Chair": {
+      "id": "(F)91"
+    },
+    "Metal Window": {
+      "id": "(F)1749"
+    },
+    "Midnight Beach Bed": {
+      "id": "(F)MidnightBeachBed"
+    },
+    "Midnight Beach Double Bed": {
+      "id": "(F)MidnightBeachDoubleBed"
+    },
+    "Miner's Crest": {
+      "id": "(F)1753"
+    },
+    "Model Planes": {
+      "id": "(F)ModelPlanes"
+    },
+    "Model Ship": {
+      "id": "(F)1367"
+    },
+    "Modern Bench": {
+      "id": "(F)212"
+    },
+    "Modern Bookcase": {
+      "id": "(F)1287"
+    },
+    "Modern Dining Table": {
+      "id": "(F)821"
+    },
+    "Modern Double Bed": {
+      "id": "(F)2192"
+    },
+    "Modern End Table": {
+      "id": "(F)1399"
+    },
+    "Modern Fish Tank": {
+      "id": "(F)2414"
+    },
+    "Modern Lamp": {
+      "id": "(F)1447"
+    },
+    "Modern Rug": {
+      "id": "(F)2875"
+    },
+    "Modern Table": {
+      "id": "(F)1132"
+    },
+    "Modern Tea-Table": {
+      "id": "(F)1224"
+    },
+    "MoldyCouch": {
+      "id": "(F)MoldyCouch"
+    },
+    "Monster Danglers": {
+      "id": "(F)1812"
+    },
+    "Monster Fireplace": {
+      "id": "(F)1800"
+    },
+    "Monster Rug": {
+      "id": "(F)1628"
+    },
+    "Moon Table": {
+      "id": "(F)1130"
+    },
+    "Moonlight Jellies Banner": {
+      "id": "(F)2626"
+    },
+    "MorrisPortrait": {
+      "id": "(F)MorrisPortrait"
+    },
+    "Mounted Trout": {
+      "id": "(F)MountedTrout_Painting"
+    },
+    "My First Painting": {
+      "id": "(F)1802"
+    },
+    "Mystic Rug": {
+      "id": "(F)1664"
+    },
+    "Nautical Rug": {
+      "id": "(F)1737"
+    },
+    "Needlepoint Flower": {
+      "id": "(F)1567"
+    },
+    "Neolithic Table": {
+      "id": "(F)1140"
+    },
+    "Night Sky Decal #1": {
+      "id": "(F)1914"
+    },
+    "Night Sky Decal #2": {
+      "id": "(F)1915"
+    },
+    "Night Sky Decal #3": {
+      "id": "(F)1916"
+    },
+    "Oak Bench": {
+      "id": "(F)192"
+    },
+    "Oak Chair": {
+      "id": "(F)0"
+    },
+    "Oak Dresser": {
+      "id": "(F)704"
+    },
+    "Oak End Table": {
+      "id": "(F)1391"
+    },
+    "Oak Table": {
+      "id": "(F)1120"
+    },
+    "Oak Tea-Table": {
+      "id": "(F)1216"
+    },
+    "OakLampEndTable": {
+      "id": "(F)OakLampEndTable"
+    },
+    "Oceanic Rug": {
+      "id": "(F)1228"
+    },
+    "Old World Rug": {
+      "id": "(F)2794"
+    },
+    "Orange Office Stool": {
+      "id": "(F)31"
+    },
+    "OrangeSleepingJunimo": {
+      "id": "(F)OrangeSleepingJunimo"
+    },
+    "Ornate Lamp": {
+      "id": "(F)1758"
+    },
+    "Ornate Window": {
+      "id": "(F)1678"
+    },
+    "Outlet": {
+      "id": "(F)Outlet"
+    },
+    "Palm Wall Ornament": {
+      "id": "(F)2393"
+    },
+    "Pastel Banner": {
+      "id": "(F)2624"
+    },
+    "Patchwork Rug": {
+      "id": "(F)1456"
+    },
+    "PennyPortrait": {
+      "id": "(F)PennyPortrait"
+    },
+    "Periodic Table": {
+      "id": "(F)PeriodicTable"
+    },
+    "Pierre's Sign": {
+      "id": "(F)PierresSign"
+    },
+    "Pig Painting": {
+      "id": "(F)PigPainting"
+    },
+    "Pink Office Chair": {
+      "id": "(F)24"
+    },
+    "Pink Plush Seat": {
+      "id": "(F)76"
+    },
+    "Pirate Double Bed": {
+      "id": "(F)2070"
+    },
+    "Pirate Flag": {
+      "id": "(F)1900"
+    },
+    "Pirate Rug": {
+      "id": "(F)1902"
+    },
+    "Plain Torch": {
+      "id": "(F)2397"
+    },
+    "Plasma TV": {
+      "id": "(F)1468"
+    },
+    "PlasticBag": {
+      "id": "(F)PlasticBag"
+    },
+    "PlasticLawnChair": {
+      "id": "(F)PlasticLawnChair"
+    },
+    "PlasticLawnEndTable": {
+      "id": "(F)PlasticLawnEndTable"
+    },
+    "PlasticPlant": {
+      "id": "(F)PlasticPlant"
+    },
+    "PlasticSapling": {
+      "id": "(F)PlasticSapling"
+    },
+    "Porthole": {
+      "id": "(F)1673"
+    },
+    "PottedRedMushroom": {
+      "id": "(F)PottedRedMushroom"
+    },
+    "Pub Table": {
+      "id": "(F)1134"
+    },
+    "Purple Office Chair": {
+      "id": "(F)27"
+    },
+    "Purple Serpent Statue": {
+      "id": "(F)1375"
+    },
+    "PurpleBook": {
+      "id": "(F)PurpleBook"
+    },
+    "PurpleSleepingJunimo": {
+      "id": "(F)PurpleSleepingJunimo"
+    },
+    "Puzzle Table": {
+      "id": "(F)1142"
+    },
+    "Pyramid Decal": {
+      "id": "(F)2334"
+    },
+    "Radio Desk": {
+      "id": "(F)RadioDesk"
+    },
+    "Red Armchair": {
+      "id": "(F)294"
+    },
+    "Red Cottage Rug": {
+      "id": "(F)1618"
+    },
+    "Red Couch": {
+      "id": "(F)424"
+    },
+    "Red Diner Chair": {
+      "id": "(F)12"
+    },
+    "Red Rug": {
+      "id": "(F)1451"
+    },
+    "RedBook": {
+      "id": "(F)RedBook"
+    },
+    "RedCushion": {
+      "id": "(F)RedCushion"
+    },
+    "RedSleepingJunimo": {
+      "id": "(F)RedSleepingJunimo"
+    },
+    "Retro TV": {
+      "id": "(F)RetroTV"
+    },
+    "RetroBanner": {
+      "id": "(F)RetroBanner"
+    },
+    "RetroBed": {
+      "id": "(F)RetroBed"
+    },
+    "RetroBookcase": {
+      "id": "(F)RetroBookcase"
+    },
+    "RetroCabinet": {
+      "id": "(F)RetroCabinet"
+    },
+    "RetroCatalogue": {
+      "id": "(F)RetroCatalogue"
+    },
+    "RetroChair": {
+      "id": "(F)RetroChair"
+    },
+    "RetroCouch": {
+      "id": "(F)RetroCouch"
+    },
+    "RetroCushion": {
+      "id": "(F)RetroCushion"
+    },
+    "RetroDresser": {
+      "id": "(F)RetroDresser"
+    },
+    "RetroEndTable": {
+      "id": "(F)RetroEndTable"
+    },
+    "RetroFireplace": {
+      "id": "(F)RetroFireplace"
+    },
+    "RetroFlower": {
+      "id": "(F)RetroFlower"
+    },
+    "RetroLamp": {
+      "id": "(F)RetroLamp"
+    },
+    "RetroMat": {
+      "id": "(F)RetroMat"
+    },
+    "RetroPlant": {
+      "id": "(F)RetroPlant"
+    },
+    "RetroRadio": {
+      "id": "(F)RetroRadio"
+    },
+    "RetroRug": {
+      "id": "(F)RetroRug"
+    },
+    "RetroSquareRug": {
+      "id": "(F)RetroSquareRug"
+    },
+    "RetroStool": {
+      "id": "(F)RetroStool"
+    },
+    "RetroTable": {
+      "id": "(F)RetroTable"
+    },
+    "RetroTeaTable": {
+      "id": "(F)RetroTeaTable"
+    },
+    "RubyCrystalBall": {
+      "id": "(F)RubyCrystalBall"
+    },
+    "RuneRug": {
+      "id": "(F)RuneRug"
+    },
+    "Runes": {
+      "id": "(F)Runes"
+    },
+    "S. Pine": {
+      "id": "(F)1747"
+    },
+    "S. Wall Flower": {
+      "id": "(F)1974"
+    },
+    "Sam's Boombox": {
+      "id": "(F)1309"
+    },
+    "Sam's Skateboard": {
+      "id": "(F)SamsSkateboard"
+    },
+    "SamPortrait": {
+      "id": "(F)SamPortrait"
+    },
+    "Sandy Rug": {
+      "id": "(F)SandyRug"
+    },
+    "SebastianPortrait": {
+      "id": "(F)SebastianPortrait"
+    },
+    "ShanePortrait": {
+      "id": "(F)ShanePortrait"
+    },
+    "Short Bookcase": {
+      "id": "(F)ShortBookcase"
+    },
+    "ShortWizardBookcase": {
+      "id": "(F)ShortWizardBookcase"
+    },
+    "SixPackRings": {
+      "id": "(F)SixPackRings"
+    },
+    "Skeleton": {
+      "id": "(F)1304"
+    },
+    "Skull Poster": {
+      "id": "(F)1600"
+    },
+    "Small Crystal": {
+      "id": "(F)1368"
+    },
+    "Small Fish Tank": {
+      "id": "(F)2322"
+    },
+    "Small Junimo Plush": {
+      "id": "(F)1763"
+    },
+    "Small Plant": {
+      "id": "(F)1362"
+    },
+    "Small Wall Pumpkin": {
+      "id": "(F)1918"
+    },
+    "Small Window": {
+      "id": "(F)1616"
+    },
+    "SmallBookPile": {
+      "id": "(F)SmallBookPile"
+    },
+    "SmallBookStack": {
+      "id": "(F)SmallBookStack"
+    },
+    "SmallElixirShelf": {
+      "id": "(F)SmallElixirShelf"
+    },
+    "SmallJojaRug": {
+      "id": "(F)SmallJojaRug"
+    },
+    "SmallJunimoHut": {
+      "id": "(F)SmallJunimoHut"
+    },
+    "SmallJunimoMat": {
+      "id": "(F)SmallJunimoMat"
+    },
+    "SmallJunimoPot": {
+      "id": "(F)SmallJunimoPot"
+    },
+    "SmallStackedElixirShelf": {
+      "id": "(F)SmallStackedElixirShelf"
+    },
+    "SmallWizardBookcase": {
+      "id": "(F)SmallWizardBookcase"
+    },
+    "Snowy Rug": {
+      "id": "(F)1978"
+    },
+    "SpilledBeverage": {
+      "id": "(F)SpilledBeverage"
+    },
+    "SpiritsTable": {
+      "id": "(F)SpiritsTable"
+    },
+    "SquareJojaRug": {
+      "id": "(F)SquareJojaRug"
+    },
+    "SquareJunimoRug": {
+      "id": "(F)SquareJunimoRug"
+    },
+    "Squirrel Figurine": {
+      "id": "(F)2814"
+    },
+    "StackedElixirShelf": {
+      "id": "(F)StackedElixirShelf"
+    },
+    "StackedJojaBoxes": {
+      "id": "(F)StackedJojaCrates"
+    },
+    "Stardrop": {
+      "id": "(O)434"
+    },
+    "Starport Decal": {
+      "id": "(F)2631"
+    },
+    "Starry Double Bed": {
+      "id": "(F)2058"
+    },
+    "StarryMoonRug": {
+      "id": "(F)StarryMoonRug"
+    },
+    "Starship": {
+      "id": "(F)Starship"
+    },
+    "Stone Fireplace": {
+      "id": "(F)1794"
+    },
+    "Stone Slab": {
+      "id": "(F)727"
+    },
+    "StoneFlooring": {
+      "id": "(F)StoneFlooring"
+    },
+    "Stove Fireplace": {
+      "id": "(F)1798"
+    },
+    "Strawberry Decal": {
+      "id": "(F)1907"
+    },
+    "Strawberry Double Bed": {
+      "id": "(F)2064"
+    },
+    "Stump Seat": {
+      "id": "(F)88"
+    },
+    "Stump Torch": {
+      "id": "(F)2398"
+    },
+    "Sun Dunes": {
+      "id": "(F)SunDunes"
+    },
+    "Sun Table": {
+      "id": "(F)1128"
+    },
+    "SwirlRug": {
+      "id": "(F)SwirlRug"
+    },
+    "Table Plant": {
+      "id": "(F)1363"
+    },
+    "TallHousePlant": {
+      "id": "(F)TallHousePlant"
+    },
+    "Tire": {
+      "id": "(F)Tire"
+    },
+    "TopazCrystalBall": {
+      "id": "(F)TopazCrystalBall"
+    },
+    "Topiary Tree": {
+      "id": "(F)1297"
+    },
+    "Totem Pole": {
+      "id": "(F)1295"
+    },
+    "TrashCatalogue": {
+      "id": "(F)TrashCatalogue"
+    },
+    "Tree Column": {
+      "id": "(F)1744"
+    },
+    "Tree of the Winter Star": {
+      "id": "(F)1440"
+    },
+    "TriangleWindow": {
+      "id": "(F)TriangleWindow"
+    },
+    "Tropical Bed": {
+      "id": "(F)2176"
+    },
+    "Tropical Chair": {
+      "id": "(F)134"
+    },
+    "Tropical Double Bed": {
+      "id": "(F)2180"
+    },
+    "Tropical TV": {
+      "id": "(F)2326"
+    },
+    "UFO": {
+      "id": "(F)UFO"
+    },
+    "UprightPiano": {
+      "id": "(F)UprightPiano"
+    },
+    "VoidSwirls": {
+      "id": "(F)VoidSwirls"
+    },
+    "Wall Basket": {
+      "id": "(F)2425"
+    },
+    "Wall Cactus": {
+      "id": "(F)2655"
+    },
+    "Wall Flower": {
+      "id": "(F)1973"
+    },
+    "Wall Palm": {
+      "id": "(F)2654"
+    },
+    "Wall Pumpkin": {
+      "id": "(F)1917"
+    },
+    "Wall Sconce": {
+      "id": "(F)2750"
+    },
+    "WallClock": {
+      "id": "(F)WallClock"
+    },
+    "Wallflower Pal": {
+      "id": "(F)1559"
+    },
+    "WallSword": {
+      "id": "(F)WallSword"
+    },
+    "Walnut Bench": {
+      "id": "(F)197"
+    },
+    "Walnut Chair": {
+      "id": "(F)3"
+    },
+    "Walnut Dresser": {
+      "id": "(F)709"
+    },
+    "Walnut End Table": {
+      "id": "(F)1393"
+    },
+    "Walnut Table": {
+      "id": "(F)1122"
+    },
+    "Walnut Tea-Table": {
+      "id": "(F)1218"
+    },
+    "WalnutLampEndTable": {
+      "id": "(F)WalnutLampEndTable"
+    },
+    "WaterPetBowl": {
+      "id": "(F)WaterPetBowl"
+    },
+    "Wild Double Bed": {
+      "id": "(F)2496"
+    },
+    "WineTable": {
+      "id": "(F)WineTable"
+    },
+    "Winter Banner": {
+      "id": "(F)2625"
+    },
+    "Winter Chair": {
+      "id": "(F)79"
+    },
+    "Winter Dining Table": {
+      "id": "(F)800"
+    },
+    "Winter End Table": {
+      "id": "(F)1401"
+    },
+    "Winter Table": {
+      "id": "(F)1144"
+    },
+    "Winter Tree Decal": {
+      "id": "(F)1961"
+    },
+    "WitchBroom": {
+      "id": "(F)WitchBroom"
+    },
+    "Wizard Couch": {
+      "id": "(F)528"
+    },
+    "WizardBed": {
+      "id": "(F)WizardBed"
+    },
+    "WizardBookcase": {
+      "id": "(F)WizardBookcase"
+    },
+    "WizardBookshelf": {
+      "id": "(F)WizardBookshelf"
+    },
+    "WizardCatalogue": {
+      "id": "(F)WizardCatalogue"
+    },
+    "WizardChair": {
+      "id": "(F)WizardChair"
+    },
+    "WizardCushion": {
+      "id": "(F)WizardCushion"
+    },
+    "WizardDresser": {
+      "id": "(F)WizardDresser"
+    },
+    "WizardEndTable": {
+      "id": "(F)WizardEndTable"
+    },
+    "WizardFireplace": {
+      "id": "(F)WizardFireplace"
+    },
+    "WizardLamp": {
+      "id": "(F)WizardLamp"
+    },
+    "WizardStool": {
+      "id": "(F)WizardStool"
+    },
+    "WizardStudy": {
+      "id": "(F)WizardStudy"
+    },
+    "WizardTable": {
+      "id": "(F)WizardTable"
+    },
+    "WizardTeaTable": {
+      "id": "(F)WizardTeaTable"
+    },
+    "WizardTower": {
+      "id": "(F)WizardTower"
+    },
+    "Wood Panel": {
+      "id": "(F)2633"
+    },
+    "Woodcut Rug": {
+      "id": "(F)1777"
+    },
+    "Woodsy Couch": {
+      "id": "(F)536"
+    },
+    "World Map": {
+      "id": "(F)1676"
+    },
+    "Wrapper": {
+      "id": "(F)Wrapper"
+    },
+    "Wumbus Statue": {
+      "id": "(F)1371"
+    },
+    "Yellow Armchair": {
+      "id": "(F)306"
+    },
+    "Yellow Couch": {
+      "id": "(F)440"
+    },
+    "YellowBook": {
+      "id": "(F)YellowBook"
+    },
+    "YellowCushion": {
+      "id": "(F)YellowCushion"
+    },
+    "YellowSleepingJunimo": {
+      "id": "(F)YellowSleepingJunimo"
+    },
+    "Flooring": {
+      "id": "(FL)MoreFloors:8"
+    },
+    "???": {
+      "id": "(O)930"
+    },
+    "Abigail's Bow": {
+      "id": "(H)AbigailsBow"
+    },
+    "Arcane Hat": {
+      "id": "(H)60"
+    },
+    "Archer's Cap": {
+      "id": "(H)35"
+    },
+    "Beanie": {
+      "id": "(H)53"
+    },
+    "Blobfish Mask": {
+      "id": "(H)56"
+    },
+    "Blue Bonnet": {
+      "id": "(H)6"
+    },
+    "Blue Bow": {
+      "id": "(H)BlueBow"
+    },
+    "Blue Cowboy Hat": {
+      "id": "(H)37"
+    },
+    "Blue Ribbon": {
+      "id": "(H)BlueRibbon"
+    },
+    "Bluebird Mask": {
+      "id": "(H)80"
+    },
+    "Bowler Hat": {
+      "id": "(H)1"
+    },
+    "Bridal Veil": {
+      "id": "(H)69"
+    },
+    "Bucket Hat": {
+      "id": "(H)BucketHat"
+    },
+    "Butterfly Bow": {
+      "id": "(H)14"
+    },
+    "Cat Ears": {
+      "id": "(H)32"
+    },
+    "Chef Hat": {
+      "id": "(H)61"
+    },
+    "Chicken Mask": {
+      "id": "(H)10"
+    },
+    "Cone Hat": {
+      "id": "(H)39"
+    },
+    "Cool Cap": {
+      "id": "(H)20"
+    },
+    "Copper Pan": {
+      "id": "(H)71"
+    },
+    "Cowboy Hat": {
+      "id": "(H)0"
+    },
+    "Cowgal Hat": {
+      "id": "(H)33"
+    },
+    "Cowpoke Hat": {
+      "id": "(H)34"
+    },
+    "Daisy": {
+      "id": "(H)29"
+    },
+    "Dark Ballcap": {
+      "id": "(H)DarkBallcap"
+    },
+    "Dark Cowboy Hat": {
+      "id": "(H)83"
+    },
+    "Dark Velvet Bow": {
+      "id": "(H)DarkVelvetBow"
+    },
+    "Delicate Bow": {
+      "id": "(H)12"
+    },
+    "Deluxe Cowboy Hat": {
+      "id": "(H)81"
+    },
+    "Deluxe Pirate Hat": {
+      "id": "(H)76"
+    },
+    "Dinosaur Hat": {
+      "id": "(H)43"
+    },
+    "Earmuffs": {
+      "id": "(H)11"
+    },
+    "Elegant Turban": {
+      "id": "(H)64"
+    },
+    "Emily's Magic Hat": {
+      "id": "(H)41"
+    },
+    "Eye Patch": {
+      "id": "(H)24"
+    },
+    "Fashion Hat": {
+      "id": "(H)47"
+    },
+    "Fedora": {
+      "id": "(H)19"
+    },
+    "Fishing Hat": {
+      "id": "(H)55"
+    },
+    "Flat Topped Hat": {
+      "id": "(H)63"
+    },
+    "Floppy Beanie": {
+      "id": "(H)54"
+    },
+    "Forager's Hat": {
+      "id": "(H)90"
+    },
+    "Frog Hat": {
+      "id": "(H)78"
+    },
+    "Garbage Hat": {
+      "id": "(H)66"
+    },
+    "Gil's Hat": {
+      "id": "(H)GilsHat"
+    },
+    "Gnome's Cap": {
+      "id": "(H)23"
+    },
+    "Goblin Mask": {
+      "id": "(H)9"
+    },
+    "Goggles": {
+      "id": "(H)89"
+    },
+    "Gold Pan": {
+      "id": "(T)GoldPan"
+    },
+    "Golden Helmet": {
+      "id": "(H)75"
+    },
+    "Golden Mask": {
+      "id": "(O)124"
+    },
+    "Good Ol' Cap": {
+      "id": "(H)18"
+    },
+    "Governor's Hat": {
+      "id": "(H)GovernorsHat"
+    },
+    "Green Turban": {
+      "id": "(H)72"
+    },
+    "Hair Bone": {
+      "id": "(H)49"
+    },
+    "Hard Hat": {
+      "id": "(H)27"
+    },
+    "Hunter's Cap": {
+      "id": "(H)15"
+    },
+    "Infinity Crown": {
+      "id": "(H)InfinityCrown"
+    },
+    "Iridium Pan": {
+      "id": "(T)IridiumPan"
+    },
+    "Jester Hat": {
+      "id": "(H)JesterHat"
+    },
+    "Joja Cap": {
+      "id": "(H)JojaCap"
+    },
+    "Junimo Hat": {
+      "id": "(H)JunimoHat"
+    },
+    "Knight's Helmet": {
+      "id": "(H)50"
+    },
+    "Laurel Wreath Crown": {
+      "id": "(H)LaurelWreathCrown"
+    },
+    "Leprechaun Hat": {
+      "id": "(H)LeprechuanHat"
+    },
+    "Living Hat": {
+      "id": "(H)40"
+    },
+    "Logo Cap": {
+      "id": "(H)45"
+    },
+    "Lucky Bow": {
+      "id": "(H)21"
+    },
+    "Magic Cowboy Hat": {
+      "id": "(H)73"
+    },
+    "Magic Turban": {
+      "id": "(H)74"
+    },
+    "Mouse Ears": {
+      "id": "(H)31"
+    },
+    "Mr. Qi's Hat": {
+      "id": "(H)82"
+    },
+    "Mummy Mask": {
+      "id": "(H)MummyMask"
+    },
+    "Mushroom Cap": {
+      "id": "(H)42"
+    },
+    "Mystery Hat": {
+      "id": "(H)MysteryHat"
+    },
+    "Official Cap": {
+      "id": "(H)5"
+    },
+    "Pageboy Cap": {
+      "id": "(H)PageboyCap"
+    },
+    "Panda Hat": {
+      "id": "(H)36"
+    },
+    "Paper Hat": {
+      "id": "(H)PaperHat"
+    },
+    "Party Hat": {
+      "id": "(H)59"
+    },
+    "Pink Bow": {
+      "id": "(H)77"
+    },
+    "Pirate Hat": {
+      "id": "(H)62"
+    },
+    "Plum Chapeau": {
+      "id": "(H)7"
+    },
+    "Polka Bow": {
+      "id": "(H)22"
+    },
+    "Propeller Hat": {
+      "id": "(H)68"
+    },
+    "Pumpkin Mask": {
+      "id": "(H)48"
+    },
+    "Qi Mask": {
+      "id": "(H)86"
+    },
+    "Raccoon Hat": {
+      "id": "(H)RaccoonHat"
+    },
+    "Radioactive Goggles": {
+      "id": "(H)84"
+    },
+    "Red Cowboy Hat": {
+      "id": "(H)38"
+    },
+    "Red Fez": {
+      "id": "(H)RedFez"
+    },
+    "Sailor's Cap": {
+      "id": "(H)17"
+    },
+    "Santa Hat": {
+      "id": "(H)25"
+    },
+    "Skeleton Mask": {
+      "id": "(H)8"
+    },
+    "Small Cap": {
+      "id": "(H)79"
+    },
+    "Sombrero": {
+      "id": "(H)3"
+    },
+    "Sou'wester": {
+      "id": "(H)28"
+    },
+    "Space Helmet": {
+      "id": "(H)SpaceHelmet"
+    },
+    "Sports Cap": {
+      "id": "(H)SportsCap"
+    },
+    "Spotted Headscarf": {
+      "id": "(H)52"
+    },
+    "Squid Hat": {
+      "id": "(H)SquidHat"
+    },
+    "Squire's Helmet": {
+      "id": "(H)51"
+    },
+    "Star Helmet": {
+      "id": "(H)87"
+    },
+    "Steel Pan": {
+      "id": "(T)SteelPan"
+    },
+    "Straw Hat": {
+      "id": "(H)4"
+    },
+    "Sunglasses": {
+      "id": "(H)88"
+    },
+    "Swashbuckler Hat": {
+      "id": "(H)85"
+    },
+    "Tiara": {
+      "id": "(H)26"
+    },
+    "Tiger Hat": {
+      "id": "(H)91"
+    },
+    "Top Hat": {
+      "id": "(H)2"
+    },
+    "Totem Mask": {
+      "id": "(H)44"
+    },
+    "Tricorn Hat": {
+      "id": "(H)TricornHat"
+    },
+    "Tropiclip": {
+      "id": "(H)13"
+    },
+    "Trucker Hat": {
+      "id": "(H)16"
+    },
+    "Warrior Helmet": {
+      "id": "(H)93"
+    },
+    "Watermelon Band": {
+      "id": "(H)30"
+    },
+    "Wearable Dwarf Helm": {
+      "id": "(H)46"
+    },
+    "White Bow": {
+      "id": "(H)WhiteBow"
+    },
+    "White Turban": {
+      "id": "(H)65"
+    },
+    "Witch Hat": {
+      "id": "(H)70"
+    },
+    "CursedMannequinFemale": {
+      "id": "(M)CursedMannequinFemale"
+    },
+    "CursedMannequinMale": {
+      "id": "(M)CursedMannequinMale"
+    },
+    "MannequinFemale": {
+      "id": "(M)MannequinFemale"
+    },
+    "MannequinMale": {
+      "id": "(M)MannequinMale"
+    },
+    "Acorn": {
+      "id": "(O)309"
+    },
+    "Advanced TV Remote": {
+      "id": "(O)867"
+    },
+    "Aerinite": {
+      "id": "(O)541"
+    },
+    "Aged Albacore Roe": {
+      "id": "(O)447/705"
+    },
+    "Aged Anchovy Roe": {
+      "id": "(O)447/129"
+    },
+    "Aged Angler Roe": {
+      "id": "(O)447/160"
+    },
+    "Aged Blobfish Roe": {
+      "id": "(O)447/800"
+    },
+    "Aged Blue Discus Roe": {
+      "id": "(O)447/838"
+    },
+    "Aged Bream Roe": {
+      "id": "(O)447/132"
+    },
+    "Aged Bullhead Roe": {
+      "id": "(O)447/700"
+    },
+    "Aged Carp Roe": {
+      "id": "(O)447/142"
+    },
+    "Aged Catfish Roe": {
+      "id": "(O)447/143"
+    },
+    "Aged Chub Roe": {
+      "id": "(O)447/702"
+    },
+    "Aged Clam Roe": {
+      "id": "(O)447/372"
+    },
+    "Aged Cockle Roe": {
+      "id": "(O)447/718"
+    },
+    "Aged Crab Roe": {
+      "id": "(O)447/717"
+    },
+    "Aged Crayfish Roe": {
+      "id": "(O)447/716"
+    },
+    "Aged Crimsonfish Roe": {
+      "id": "(O)447/159"
+    },
+    "Aged Dorado Roe": {
+      "id": "(O)447/704"
+    },
+    "Aged Eel Roe": {
+      "id": "(O)447/148"
+    },
+    "Aged Flounder Roe": {
+      "id": "(O)447/267"
+    },
+    "Aged Ghostfish Roe": {
+      "id": "(O)447/156"
+    },
+    "Aged Glacierfish Jr. Roe": {
+      "id": "(O)447/902"
+    },
+    "Aged Glacierfish Roe": {
+      "id": "(O)447/775"
+    },
+    "Aged Goby Roe": {
+      "id": "(O)447/Goby"
+    },
+    "Aged Halibut Roe": {
+      "id": "(O)447/708"
+    },
+    "Aged Herring Roe": {
+      "id": "(O)447/147"
+    },
+    "Aged Ice Pip Roe": {
+      "id": "(O)447/161"
+    },
+    "Aged Jewels Of The Sea Roe": {
+      "id": "(O)447/Book_Roe"
+    },
+    "Aged Largemouth Bass Roe": {
+      "id": "(O)447/136"
+    },
+    "Aged Lava Eel Roe": {
+      "id": "(O)447/162"
+    },
+    "Aged Legend II Roe": {
+      "id": "(O)447/900"
+    },
+    "Aged Legend Roe": {
+      "id": "(O)447/163"
+    },
+    "Aged Lingcod Roe": {
+      "id": "(O)447/707"
+    },
+    "Aged Lionfish Roe": {
+      "id": "(O)447/837"
+    },
+    "Aged Lobster Roe": {
+      "id": "(O)447/715"
+    },
+    "Aged Midnight Carp Roe": {
+      "id": "(O)447/269"
+    },
+    "Aged Midnight Squid Roe": {
+      "id": "(O)447/798"
+    },
+    "Aged Ms. Angler Roe": {
+      "id": "(O)447/899"
+    },
+    "Aged Mussel Roe": {
+      "id": "(O)447/719"
+    },
+    "Aged Mutant Carp Roe": {
+      "id": "(O)447/682"
+    },
+    "Aged Octopus Roe": {
+      "id": "(O)447/149"
+    },
+    "Aged Oyster Roe": {
+      "id": "(O)447/723"
+    },
+    "Aged Perch Roe": {
+      "id": "(O)447/141"
+    },
+    "Aged Periwinkle Roe": {
+      "id": "(O)447/722"
+    },
+    "Aged Pike Roe": {
+      "id": "(O)447/144"
+    },
+    "Aged Pufferfish Roe": {
+      "id": "(O)447/128"
+    },
+    "Aged Radioactive Carp Roe": {
+      "id": "(O)447/901"
+    },
+    "Aged Rainbow Trout Roe": {
+      "id": "(O)447/138"
+    },
+    "Aged Red Mullet Roe": {
+      "id": "(O)447/146"
+    },
+    "Aged Red Snapper Roe": {
+      "id": "(O)447/150"
+    },
+    "Aged Roe": {
+      "id": "(O)447"
+    },
+    "Aged Salmon Roe": {
+      "id": "(O)447/139"
+    },
+    "Aged Sandfish Roe": {
+      "id": "(O)447/164"
+    },
+    "Aged Sardine Roe": {
+      "id": "(O)447/131"
+    },
+    "Aged Scorpion Carp Roe": {
+      "id": "(O)447/165"
+    },
+    "Aged Sea Cucumber Roe": {
+      "id": "(O)447/154"
+    },
+    "Aged Shad Roe": {
+      "id": "(O)447/706"
+    },
+    "Aged Shrimp Roe": {
+      "id": "(O)447/720"
+    },
+    "Aged Slimejack Roe": {
+      "id": "(O)447/796"
+    },
+    "Aged Smallmouth Bass Roe": {
+      "id": "(O)447/137"
+    },
+    "Aged Snail Roe": {
+      "id": "(O)447/721"
+    },
+    "Aged Son of Crimsonfish Roe": {
+      "id": "(O)447/898"
+    },
+    "Aged Spook Fish Roe": {
+      "id": "(O)447/799"
+    },
+    "Aged Squid Roe": {
+      "id": "(O)447/151"
+    },
+    "Aged Stingray Roe": {
+      "id": "(O)447/836"
+    },
+    "Aged Stonefish Roe": {
+      "id": "(O)447/158"
+    },
+    "Aged Sunfish Roe": {
+      "id": "(O)447/145"
+    },
+    "Aged Super Cucumber Roe": {
+      "id": "(O)447/155"
+    },
+    "Aged Tiger Trout Roe": {
+      "id": "(O)447/699"
+    },
+    "Aged Tilapia Roe": {
+      "id": "(O)447/701"
+    },
+    "Aged Tuna Roe": {
+      "id": "(O)447/130"
+    },
+    "Aged Void Salmon Roe": {
+      "id": "(O)447/795"
+    },
+    "Aged Walleye Roe": {
+      "id": "(O)447/140"
+    },
+    "Aged Woodskip Roe": {
+      "id": "(O)447/734"
+    },
+    "Alamite": {
+      "id": "(O)538"
+    },
+    "Albacore": {
+      "id": "(O)705"
+    },
+    "Albacore Bait": {
+      "id": "(O)SpecificBait/705"
+    },
+    "Albacore Roe": {
+      "id": "(O)812/705"
+    },
+    "Algae Soup": {
+      "id": "(O)456"
+    },
+    "Amaranth": {
+      "id": "(O)300"
+    },
+    "Amaranth Juice": {
+      "id": "(O)350/300"
+    },
+    "Amaranth Seeds": {
+      "id": "(O)299"
+    },
+    "Amethyst": {
+      "id": "(O)66"
+    },
+    "Amethyst Ring": {
+      "id": "(O)529"
+    },
+    "Amphibian Fossil": {
+      "id": "(O)587"
+    },
+    "Anchovy": {
+      "id": "(O)129"
+    },
+    "Anchovy Bait": {
+      "id": "(O)SpecificBait/129"
+    },
+    "Anchovy Roe": {
+      "id": "(O)812/129"
+    },
+    "Ancient Doll": {
+      "id": "(O)103"
+    },
+    "Ancient Drum": {
+      "id": "(O)123"
+    },
+    "Ancient Fruit": {
+      "id": "(O)454"
+    },
+    "Ancient Fruit Jelly": {
+      "id": "(O)344/454"
+    },
+    "Ancient Fruit Wine": {
+      "id": "(O)348/454"
+    },
+    "Ancient Seed": {
+      "id": "(O)114"
+    },
+    "Ancient Seeds": {
+      "id": "(O)499"
+    },
+    "Ancient Sword": {
+      "id": "(O)109"
+    },
+    "Angler": {
+      "id": "(O)160"
+    },
+    "Angler Bait": {
+      "id": "(O)SpecificBait/160"
+    },
+    "Angler Roe": {
+      "id": "(O)812/160"
+    },
+    "Animal Catalogue": {
+      "id": "(O)Book_AnimalCatalogue"
+    },
+    "Apple": {
+      "id": "(O)613"
+    },
+    "Apple Jelly": {
+      "id": "(O)344/613"
+    },
+    "Apple Sapling": {
+      "id": "(O)633"
+    },
+    "Apple Wine": {
+      "id": "(O)348/613"
+    },
+    "Apricot": {
+      "id": "(O)634"
+    },
+    "Apricot Jelly": {
+      "id": "(O)344/634"
+    },
+    "Apricot Sapling": {
+      "id": "(O)629"
+    },
+    "Apricot Wine": {
+      "id": "(O)348/634"
+    },
+    "Aquamarine": {
+      "id": "(O)62"
+    },
+    "Aquamarine Ring": {
+      "id": "(O)531"
+    },
+    "Arctic Shard": {
+      "id": "(O)868"
+    },
+    "Arrowhead": {
+      "id": "(O)101"
+    },
+    "Artichoke": {
+      "id": "(O)274"
+    },
+    "Artichoke Dip": {
+      "id": "(O)605"
+    },
+    "Artichoke Juice": {
+      "id": "(O)350/274"
+    },
+    "Artichoke Seeds": {
+      "id": "(O)489"
+    },
+    "Artifact Spot": {
+      "id": "(O)590"
+    },
+    "Artifact Trove": {
+      "id": "(O)275"
+    },
+    "Autumn's Bounty": {
+      "id": "(O)235"
+    },
+    "Bait": {
+      "id": "(O)685"
+    },
+    "Bait And Bobber": {
+      "id": "(O)SkillBook_1"
+    },
+    "Baked Fish": {
+      "id": "(O)198"
+    },
+    "Banana": {
+      "id": "(O)91"
+    },
+    "Banana Jelly": {
+      "id": "(O)344/91"
+    },
+    "Banana Pudding": {
+      "id": "(O)904"
+    },
+    "Banana Sapling": {
+      "id": "(O)69"
+    },
+    "Banana Wine": {
+      "id": "(O)348/91"
+    },
+    "Barbed Hook": {
+      "id": "(O)691"
+    },
+    "Baryte": {
+      "id": "(O)540"
+    },
+    "Basalt": {
+      "id": "(O)570"
+    },
+    "Basic Fertilizer": {
+      "id": "(O)368"
+    },
+    "Basic Retaining Soil": {
+      "id": "(O)370"
+    },
+    "Bat Wing": {
+      "id": "(O)767"
+    },
+    "Battery Pack": {
+      "id": "(O)787"
+    },
+    "Bean Hotpot": {
+      "id": "(O)207"
+    },
+    "Bean Starter": {
+      "id": "(O)473"
+    },
+    "Beer": {
+      "id": "(O)346"
+    },
+    "Beet": {
+      "id": "(O)284"
+    },
+    "Beet Juice": {
+      "id": "(O)350/284"
+    },
+    "Beet Seeds": {
+      "id": "(O)494"
+    },
+    "Berry Basket": {
+      "id": "(O)790"
+    },
+    "Bixite": {
+      "id": "(O)539"
+    },
+    "Blackberry": {
+      "id": "(O)410"
+    },
+    "Blackberry Cobbler": {
+      "id": "(O)611"
+    },
+    "Blackberry Jelly": {
+      "id": "(O)344/410"
+    },
+    "Blackberry Wine": {
+      "id": "(O)348/410"
+    },
+    "Blobfish": {
+      "id": "(O)800"
+    },
+    "Blobfish Bait": {
+      "id": "(O)SpecificBait/800"
+    },
+    "Blobfish Roe": {
+      "id": "(O)812/800"
+    },
+    "Blue Discus": {
+      "id": "(O)838"
+    },
+    "Blue Discus Bait": {
+      "id": "(O)SpecificBait/838"
+    },
+    "Blue Discus Roe": {
+      "id": "(O)812/838"
+    },
+    "Blue Grass Starter": {
+      "id": "(O)BlueGrassStarter"
+    },
+    "Blue Jazz": {
+      "id": "(O)597"
+    },
+    "Blue Jazz Honey": {
+      "id": "(O)340/597"
+    },
+    "Blue Slime Egg": {
+      "id": "(O)413"
+    },
+    "Blueberry": {
+      "id": "(O)258"
+    },
+    "Blueberry Jelly": {
+      "id": "(O)344/258"
+    },
+    "Blueberry Seeds": {
+      "id": "(O)481"
+    },
+    "Blueberry Tart": {
+      "id": "(O)234"
+    },
+    "Blueberry Wine": {
+      "id": "(O)348/258"
+    },
+    "Bok Choy": {
+      "id": "(O)278"
+    },
+    "Bok Choy Juice": {
+      "id": "(O)350/278"
+    },
+    "Bok Choy Seeds": {
+      "id": "(O)491"
+    },
+    "Bomb": {
+      "id": "(O)287"
+    },
+    "Bone Flute": {
+      "id": "(O)119"
+    },
+    "Bone Fragment": {
+      "id": "(O)881"
+    },
+    "Book of Mysteries": {
+      "id": "(O)Book_Mystery"
+    },
+    "Book Of Stars": {
+      "id": "(O)PurpleBook"
+    },
+    "Book_Artifact": {
+      "id": "(O)Book_Artifact"
+    },
+    "Book_Grass": {
+      "id": "(O)Book_Grass"
+    },
+    "Book_Horse": {
+      "id": "(O)Book_Horse"
+    },
+    "Bouquet": {
+      "id": "(O)458"
+    },
+    "Bread": {
+      "id": "(O)216"
+    },
+    "Bream": {
+      "id": "(O)132"
+    },
+    "Bream Bait": {
+      "id": "(O)SpecificBait/132"
+    },
+    "Bream Roe": {
+      "id": "(O)812/132"
+    },
+    "Brick Floor": {
+      "id": "(O)293"
+    },
+    "Broccoli": {
+      "id": "(O)Broccoli"
+    },
+    "Broccoli Juice": {
+      "id": "(O)350/Broccoli"
+    },
+    "Broccoli Seeds": {
+      "id": "(O)BroccoliSeeds"
+    },
+    "Broken CD": {
+      "id": "(O)171"
+    },
+    "Broken Glasses": {
+      "id": "(O)170"
+    },
+    "Bruschetta": {
+      "id": "(O)618"
+    },
+    "Bug Meat": {
+      "id": "(O)684"
+    },
+    "Bug Steak": {
+      "id": "(O)874"
+    },
+    "Bullhead": {
+      "id": "(O)700"
+    },
+    "Bullhead Bait": {
+      "id": "(O)SpecificBait/700"
+    },
+    "Bullhead Roe": {
+      "id": "(O)812/700"
+    },
+    "Burglar's Ring": {
+      "id": "(O)526"
+    },
+    "Butterfly Powder": {
+      "id": "(O)ButterflyPowder"
+    },
+    "Cactus Fruit": {
+      "id": "(O)90"
+    },
+    "Cactus Fruit Jelly": {
+      "id": "(O)344/90"
+    },
+    "Cactus Fruit Wine": {
+      "id": "(O)348/90"
+    },
+    "Cactus Seeds": {
+      "id": "(O)802"
+    },
+    "Calcite": {
+      "id": "(O)542"
+    },
+    "Calico Egg": {
+      "id": "(O)CalicoEgg"
+    },
+    "Camping Stove": {
+      "id": "(O)927"
+    },
+    "Carp": {
+      "id": "(O)142"
+    },
+    "Carp Bait": {
+      "id": "(O)SpecificBait/142"
+    },
+    "Carp Roe": {
+      "id": "(O)812/142"
+    },
+    "Carp Surprise": {
+      "id": "(O)209"
+    },
+    "Carrot": {
+      "id": "(O)Carrot"
+    },
+    "Carrot Juice": {
+      "id": "(O)350/Carrot"
+    },
+    "Carrot Seeds": {
+      "id": "(O)CarrotSeeds"
+    },
+    "Catfish": {
+      "id": "(O)143"
+    },
+    "Catfish Bait": {
+      "id": "(O)SpecificBait/143"
+    },
+    "Catfish Roe": {
+      "id": "(O)812/143"
+    },
+    "Cauliflower": {
+      "id": "(O)190"
+    },
+    "Cauliflower Juice": {
+      "id": "(O)350/190"
+    },
+    "Cauliflower Seeds": {
+      "id": "(O)474"
+    },
+    "Cave Carrot": {
+      "id": "(O)78"
+    },
+    "Cave Jelly": {
+      "id": "(O)CaveJelly"
+    },
+    "Caviar": {
+      "id": "(O)445"
+    },
+    "Celestine": {
+      "id": "(O)566"
+    },
+    "Challenge Bait": {
+      "id": "(O)ChallengeBait"
+    },
+    "Chanterelle": {
+      "id": "(O)281"
+    },
+    "Cheese": {
+      "id": "(O)424"
+    },
+    "Cheese Cauliflower": {
+      "id": "(O)197"
+    },
+    "Cherry": {
+      "id": "(O)638"
+    },
+    "Cherry Bomb": {
+      "id": "(O)286"
+    },
+    "Cherry Jelly": {
+      "id": "(O)344/638"
+    },
+    "Cherry Sapling": {
+      "id": "(O)628"
+    },
+    "Cherry Wine": {
+      "id": "(O)348/638"
+    },
+    "Chewing Stick": {
+      "id": "(O)105"
+    },
+    "Chipped Amphora": {
+      "id": "(O)100"
+    },
+    "Chocolate Cake": {
+      "id": "(O)220"
+    },
+    "Chowder": {
+      "id": "(O)727"
+    },
+    "Chub": {
+      "id": "(O)702"
+    },
+    "Chub Bait": {
+      "id": "(O)SpecificBait/702"
+    },
+    "Chub Roe": {
+      "id": "(O)812/702"
+    },
+    "Cinder Shard": {
+      "id": "(O)848"
+    },
+    "Clam": {
+      "id": "(O)372"
+    },
+    "Clam Bait": {
+      "id": "(O)SpecificBait/372"
+    },
+    "Clam Roe": {
+      "id": "(O)812/372"
+    },
+    "Clay": {
+      "id": "(O)330"
+    },
+    "Cloth": {
+      "id": "(O)428"
+    },
+    "Coal": {
+      "id": "(O)382"
+    },
+    "Cobblestone Path": {
+      "id": "(O)411"
+    },
+    "Cockle": {
+      "id": "(O)718"
+    },
+    "Cockle Bait": {
+      "id": "(O)SpecificBait/718"
+    },
+    "Cockle Roe": {
+      "id": "(O)812/718"
+    },
+    "Coconut": {
+      "id": "(O)88"
+    },
+    "Coconut Jelly": {
+      "id": "(O)344/88"
+    },
+    "Coconut Wine": {
+      "id": "(O)348/88"
+    },
+    "Coffee": {
+      "id": "(O)395"
+    },
+    "Coffee Bean": {
+      "id": "(O)433"
+    },
+    "Coleslaw": {
+      "id": "(O)648"
+    },
+    "Combat Quarterly": {
+      "id": "(O)SkillBook_4"
+    },
+    "Combined Ring": {
+      "id": "(O)880"
+    },
+    "Common Mushroom": {
+      "id": "(O)404"
+    },
+    "Complete Breakfast": {
+      "id": "(O)201"
+    },
+    "Cookie": {
+      "id": "(O)223"
+    },
+    "Cookout Kit": {
+      "id": "(O)926"
+    },
+    "Copper Bar": {
+      "id": "(O)334"
+    },
+    "Copper Ore": {
+      "id": "(O)378"
+    },
+    "Coral": {
+      "id": "(O)393"
+    },
+    "Cork Bobber": {
+      "id": "(O)695"
+    },
+    "Corn": {
+      "id": "(O)270"
+    },
+    "Corn Juice": {
+      "id": "(O)350/270"
+    },
+    "Corn Seeds": {
+      "id": "(O)487"
+    },
+    "Crab": {
+      "id": "(O)717"
+    },
+    "Crab Bait": {
+      "id": "(O)SpecificBait/717"
+    },
+    "Crab Cakes": {
+      "id": "(O)732"
+    },
+    "Crab Pot": {
+      "id": "(O)710"
+    },
+    "Crab Roe": {
+      "id": "(O)812/717"
+    },
+    "Crabshell Ring": {
+      "id": "(O)810"
+    },
+    "Cranberries": {
+      "id": "(O)282"
+    },
+    "Cranberries Jelly": {
+      "id": "(O)344/282"
+    },
+    "Cranberries Wine": {
+      "id": "(O)348/282"
+    },
+    "Cranberry Candy": {
+      "id": "(O)612"
+    },
+    "Cranberry Sauce": {
+      "id": "(O)238"
+    },
+    "Cranberry Seeds": {
+      "id": "(O)493"
+    },
+    "Crayfish": {
+      "id": "(O)716"
+    },
+    "Crayfish Bait": {
+      "id": "(O)SpecificBait/716"
+    },
+    "Crayfish Roe": {
+      "id": "(O)812/716"
+    },
+    "Crimsonfish": {
+      "id": "(O)159"
+    },
+    "Crimsonfish Bait": {
+      "id": "(O)SpecificBait/159"
+    },
+    "Crimsonfish Roe": {
+      "id": "(O)812/159"
+    },
+    "Crispy Bass": {
+      "id": "(O)214"
+    },
+    "Crocus": {
+      "id": "(O)418"
+    },
+    "Crocus Honey": {
+      "id": "(O)340/418"
+    },
+    "Crystal Floor": {
+      "id": "(O)333"
+    },
+    "Crystal Fruit": {
+      "id": "(O)414"
+    },
+    "Crystal Fruit Jelly": {
+      "id": "(O)344/414"
+    },
+    "Crystal Fruit Wine": {
+      "id": "(O)348/414"
+    },
+    "Crystal Path": {
+      "id": "(O)409"
+    },
+    "Curiosity Lure": {
+      "id": "(O)856"
+    },
+    "Daffodil": {
+      "id": "(O)18"
+    },
+    "Dandelion": {
+      "id": "(O)22"
+    },
+    "Decorative Pot": {
+      "id": "(O)461"
+    },
+    "Deluxe Bait": {
+      "id": "(O)DeluxeBait"
+    },
+    "Deluxe Fertilizer": {
+      "id": "(O)919"
+    },
+    "Deluxe Retaining Soil": {
+      "id": "(O)920"
+    },
+    "Deluxe Speed-Gro": {
+      "id": "(O)466"
+    },
+    "Diamond": {
+      "id": "(O)72"
+    },
+    "Dinosaur Egg": {
+      "id": "(O)107"
+    },
+    "Dinosaur Mayonnaise": {
+      "id": "(O)807"
+    },
+    "Dish O' The Sea": {
+      "id": "(O)242"
+    },
+    "Dolomite": {
+      "id": "(O)543"
+    },
+    "Dorado": {
+      "id": "(O)704"
+    },
+    "Dorado Bait": {
+      "id": "(O)SpecificBait/704"
+    },
+    "Dorado Roe": {
+      "id": "(O)812/704"
+    },
+    "Dragon Tooth": {
+      "id": "(O)852"
+    },
+    "Dressed Spinner": {
+      "id": "(O)687"
+    },
+    "Dried Ancient Fruit": {
+      "id": "(O)398/454"
+    },
+    "Dried Apple": {
+      "id": "(O)398/613"
+    },
+    "Dried Apricot": {
+      "id": "(O)398/634"
+    },
+    "Dried Banana": {
+      "id": "(O)398/91"
+    },
+    "Dried Blackberry": {
+      "id": "(O)398/410"
+    },
+    "Dried Blueberry": {
+      "id": "(O)398/258"
+    },
+    "Dried Cactus Fruit": {
+      "id": "(O)398/90"
+    },
+    "Dried Chanterelle": {
+      "id": "(O)DriedMushrooms/281"
+    },
+    "Dried Cherry": {
+      "id": "(O)398/638"
+    },
+    "Dried Coconut": {
+      "id": "(O)398/88"
+    },
+    "Dried Common Mushroom": {
+      "id": "(O)DriedMushrooms/404"
+    },
+    "Dried Cranberries": {
+      "id": "(O)398/282"
+    },
+    "Dried Crystal Fruit": {
+      "id": "(O)398/414"
+    },
+    "Dried Hot Pepper": {
+      "id": "(O)398/260"
+    },
+    "Dried Magma Cap": {
+      "id": "(O)DriedMushrooms/851"
+    },
+    "Dried Mango": {
+      "id": "(O)398/834"
+    },
+    "Dried Melon": {
+      "id": "(O)398/254"
+    },
+    "Dried Morel": {
+      "id": "(O)DriedMushrooms/257"
+    },
+    "Dried Orange": {
+      "id": "(O)398/635"
+    },
+    "Dried Peach": {
+      "id": "(O)398/636"
+    },
+    "Dried Pineapple": {
+      "id": "(O)398/832"
+    },
+    "Dried Pomegranate": {
+      "id": "(O)398/637"
+    },
+    "Dried Powdermelon": {
+      "id": "(O)398/Powdermelon"
+    },
+    "Dried Purple Mushroom": {
+      "id": "(O)DriedMushrooms/422"
+    },
+    "Dried Qi Fruit": {
+      "id": "(O)398/889"
+    },
+    "Dried Rhubarb": {
+      "id": "(O)398/252"
+    },
+    "Dried Salmonberry": {
+      "id": "(O)398/296"
+    },
+    "Dried Spice Berry": {
+      "id": "(O)398/396"
+    },
+    "Dried Starfish": {
+      "id": "(O)116"
+    },
+    "Dried Starfruit": {
+      "id": "(O)398/268"
+    },
+    "Dried Strawberry": {
+      "id": "(O)398/400"
+    },
+    "Dried Wild Plum": {
+      "id": "(O)398/406"
+    },
+    "Driftwood": {
+      "id": "(O)169"
+    },
+    "Drum Block": {
+      "id": "(O)463"
+    },
+    "Duck Egg": {
+      "id": "(O)442"
+    },
+    "Duck Feather": {
+      "id": "(O)444"
+    },
+    "Duck Mayonnaise": {
+      "id": "(O)307"
+    },
+    "Dwarf Gadget": {
+      "id": "(O)122"
+    },
+    "Dwarf Scroll I": {
+      "id": "(O)96"
+    },
+    "Dwarf Scroll II": {
+      "id": "(O)97"
+    },
+    "Dwarf Scroll III": {
+      "id": "(O)98"
+    },
+    "Dwarf Scroll IV": {
+      "id": "(O)99"
+    },
+    "Dwarvish Helm": {
+      "id": "(O)121"
+    },
+    "Dwarvish Safety Manual": {
+      "id": "(O)Book_Bombs"
+    },
+    "Dwarvish Translation Guide": {
+      "id": "(O)326"
+    },
+    "Earth Crystal": {
+      "id": "(O)86"
+    },
+    "Ectoplasm": {
+      "id": "(O)875"
+    },
+    "Eel": {
+      "id": "(O)148"
+    },
+    "Eel Bait": {
+      "id": "(O)SpecificBait/148"
+    },
+    "Eel Roe": {
+      "id": "(O)812/148"
+    },
+    "Egg": {
+      "id": "(O)180"
+    },
+    "Eggplant": {
+      "id": "(O)272"
+    },
+    "Eggplant Juice": {
+      "id": "(O)350/272"
+    },
+    "Eggplant Parmesan": {
+      "id": "(O)231"
+    },
+    "Eggplant Seeds": {
+      "id": "(O)488"
+    },
+    "Elvish Jewelry": {
+      "id": "(O)104"
+    },
+    "Emerald": {
+      "id": "(O)60"
+    },
+    "Emerald Ring": {
+      "id": "(O)533"
+    },
+    "Energy Tonic": {
+      "id": "(O)349"
+    },
+    "Enricher": {
+      "id": "(O)913"
+    },
+    "Escargot": {
+      "id": "(O)729"
+    },
+    "Esperite": {
+      "id": "(O)544"
+    },
+    "Explosive Ammo": {
+      "id": "(O)441"
+    },
+    "Fairy Dust": {
+      "id": "(O)872"
+    },
+    "Fairy Rose": {
+      "id": "(O)595"
+    },
+    "Fairy Rose Honey": {
+      "id": "(O)340/595"
+    },
+    "Fairy Seeds": {
+      "id": "(O)425"
+    },
+    "Fairy Stone": {
+      "id": "(O)577"
+    },
+    "Fall Seeds": {
+      "id": "(O)497"
+    },
+    "Far Away Stone": {
+      "id": "(O)FarAwayStone"
+    },
+    "Farmer's Lunch": {
+      "id": "(O)240"
+    },
+    "Fiber": {
+      "id": "(O)771"
+    },
+    "Fiber Seeds": {
+      "id": "(O)885"
+    },
+    "Fiddlehead Fern": {
+      "id": "(O)259"
+    },
+    "Fiddlehead Fern Juice": {
+      "id": "(O)350/259"
+    },
+    "Fiddlehead Risotto": {
+      "id": "(O)649"
+    },
+    "Field Snack": {
+      "id": "(O)403"
+    },
+    "Fire Opal": {
+      "id": "(O)565"
+    },
+    "Fire Quartz": {
+      "id": "(O)82"
+    },
+    "Fireworks (Green)": {
+      "id": "(O)895"
+    },
+    "Fireworks (Purple)": {
+      "id": "(O)894"
+    },
+    "Fireworks (Red)": {
+      "id": "(O)893"
+    },
+    "Fish Stew": {
+      "id": "(O)728"
+    },
+    "Fish Taco": {
+      "id": "(O)213"
+    },
+    "Flounder": {
+      "id": "(O)267"
+    },
+    "Flounder Bait": {
+      "id": "(O)SpecificBait/267"
+    },
+    "Flounder Roe": {
+      "id": "(O)812/267"
+    },
+    "Fluorapatite": {
+      "id": "(O)545"
+    },
+    "Flute Block": {
+      "id": "(O)464"
+    },
+    "Fossilized Leg": {
+      "id": "(O)823"
+    },
+    "Fossilized Ribs": {
+      "id": "(O)824"
+    },
+    "Fossilized Skull": {
+      "id": "(O)820"
+    },
+    "Fossilized Spine": {
+      "id": "(O)821"
+    },
+    "Fossilized Tail": {
+      "id": "(O)822"
+    },
+    "Fried Calamari": {
+      "id": "(O)202"
+    },
+    "Fried Eel": {
+      "id": "(O)225"
+    },
+    "Fried Egg": {
+      "id": "(O)194"
+    },
+    "Fried Mushroom": {
+      "id": "(O)205"
+    },
+    "Friendship 101": {
+      "id": "(O)Book_Friendship"
+    },
+    "Frozen Geode": {
+      "id": "(O)536"
+    },
+    "Frozen Tear": {
+      "id": "(O)84"
+    },
+    "Fruit Salad": {
+      "id": "(O)610"
+    },
+    "Galaxy Soul": {
+      "id": "(O)896"
+    },
+    "Garlic": {
+      "id": "(O)248"
+    },
+    "Garlic Juice": {
+      "id": "(O)350/248"
+    },
+    "Garlic Seeds": {
+      "id": "(O)476"
+    },
+    "Gate": {
+      "id": "(O)325"
+    },
+    "Geminite": {
+      "id": "(O)546"
+    },
+    "Geode": {
+      "id": "(O)535"
+    },
+    "Ghost Crystal": {
+      "id": "(O)561"
+    },
+    "Ghostfish": {
+      "id": "(O)156"
+    },
+    "Ghostfish Bait": {
+      "id": "(O)SpecificBait/156"
+    },
+    "Ghostfish Roe": {
+      "id": "(O)812/156"
+    },
+    "Ginger": {
+      "id": "(O)829"
+    },
+    "Ginger Ale": {
+      "id": "(O)903"
+    },
+    "Glacierfish": {
+      "id": "(O)775"
+    },
+    "Glacierfish Bait": {
+      "id": "(O)SpecificBait/775"
+    },
+    "Glacierfish Jr.": {
+      "id": "(O)902"
+    },
+    "Glacierfish Jr. Bait": {
+      "id": "(O)SpecificBait/902"
+    },
+    "Glacierfish Jr. Roe": {
+      "id": "(O)812/902"
+    },
+    "Glacierfish Roe": {
+      "id": "(O)812/775"
+    },
+    "Glass Shards": {
+      "id": "(O)118"
+    },
+    "Glazed Yams": {
+      "id": "(O)208"
+    },
+    "Glow Ring": {
+      "id": "(O)517"
+    },
+    "Glowstone Ring": {
+      "id": "(O)888"
+    },
+    "Goat Cheese": {
+      "id": "(O)426"
+    },
+    "Goat Milk": {
+      "id": "(O)436"
+    },
+    "Goby": {
+      "id": "(O)Goby"
+    },
+    "Goby Bait": {
+      "id": "(O)SpecificBait/Goby"
+    },
+    "Goby Roe": {
+      "id": "(O)812/Goby"
+    },
+    "Gold Bar": {
+      "id": "(O)336"
+    },
+    "Gold Coin": {
+      "id": "(O)GoldCoin"
+    },
+    "Gold Ore": {
+      "id": "(O)384"
+    },
+    "Golden Animal Cracker": {
+      "id": "(O)GoldenAnimalCracker"
+    },
+    "Golden Bobber": {
+      "id": "(O)GoldenBobber"
+    },
+    "Golden Coconut": {
+      "id": "(O)791"
+    },
+    "Golden Egg": {
+      "id": "(O)928"
+    },
+    "Golden Mystery Box": {
+      "id": "(O)GoldenMysteryBox"
+    },
+    "Golden Pumpkin": {
+      "id": "(O)373"
+    },
+    "Golden Relic": {
+      "id": "(O)125"
+    },
+    "Golden Tag": {
+      "id": "(O)TroutDerbyTag"
+    },
+    "Golden Walnut": {
+      "id": "(O)73"
+    },
+    "Gourmet Tomato Salt": {
+      "id": "(O)865"
+    },
+    "Granite": {
+      "id": "(O)569"
+    },
+    "Grape": {
+      "id": "(O)398"
+    },
+    "Grape Jelly": {
+      "id": "(O)344/398"
+    },
+    "Grape Starter": {
+      "id": "(O)301"
+    },
+    "Grape Wine": {
+      "id": "(O)348/398"
+    },
+    "Grass Starter": {
+      "id": "(O)297"
+    },
+    "Gravel Path": {
+      "id": "(O)407"
+    },
+    "Green Algae": {
+      "id": "(O)153"
+    },
+    "Green Bean": {
+      "id": "(O)188"
+    },
+    "Green Bean Juice": {
+      "id": "(O)350/188"
+    },
+    "Green Slime Egg": {
+      "id": "(O)680"
+    },
+    "Green Tea": {
+      "id": "(O)614"
+    },
+    "GreenRainWeeds0": {
+      "id": "(O)GreenRainWeeds0"
+    },
+    "GreenRainWeeds1": {
+      "id": "(O)GreenRainWeeds1"
+    },
+    "GreenRainWeeds2": {
+      "id": "(O)GreenRainWeeds2"
+    },
+    "GreenRainWeeds3": {
+      "id": "(O)GreenRainWeeds3"
+    },
+    "GreenRainWeeds4": {
+      "id": "(O)GreenRainWeeds4"
+    },
+    "GreenRainWeeds5": {
+      "id": "(O)GreenRainWeeds5"
+    },
+    "GreenRainWeeds6": {
+      "id": "(O)GreenRainWeeds6"
+    },
+    "GreenRainWeeds7": {
+      "id": "(O)GreenRainWeeds7"
+    },
+    "Haley's Lost Bracelet": {
+      "id": "(O)742"
+    },
+    "Halibut": {
+      "id": "(O)708"
+    },
+    "Halibut Bait": {
+      "id": "(O)SpecificBait/708"
+    },
+    "Halibut Roe": {
+      "id": "(O)812/708"
+    },
+    "Hardwood": {
+      "id": "(O)709"
+    },
+    "Hardwood Fence": {
+      "id": "(O)298"
+    },
+    "Hashbrowns": {
+      "id": "(O)210"
+    },
+    "Hay": {
+      "id": "(O)178"
+    },
+    "Hazelnut": {
+      "id": "(O)408"
+    },
+    "Hedge": {
+      "id": "(O)929"
+    },
+    "Helvite": {
+      "id": "(O)547"
+    },
+    "Hematite": {
+      "id": "(O)573"
+    },
+    "Herring": {
+      "id": "(O)147"
+    },
+    "Herring Bait": {
+      "id": "(O)SpecificBait/147"
+    },
+    "Herring Roe": {
+      "id": "(O)812/147"
+    },
+    "Holly": {
+      "id": "(O)283"
+    },
+    "Hops": {
+      "id": "(O)304"
+    },
+    "Hops Juice": {
+      "id": "(O)350/304"
+    },
+    "Hops Starter": {
+      "id": "(O)302"
+    },
+    "Horse Flute": {
+      "id": "(O)911"
+    },
+    "Hot Java Ring": {
+      "id": "(O)860"
+    },
+    "Hot Pepper": {
+      "id": "(O)260"
+    },
+    "Hot Pepper Jelly": {
+      "id": "(O)344/260"
+    },
+    "Hot Pepper Wine": {
+      "id": "(O)348/260"
+    },
+    "Hyper Speed-Gro": {
+      "id": "(O)918"
+    },
+    "Ice Cream": {
+      "id": "(O)233"
+    },
+    "Ice Pip": {
+      "id": "(O)161"
+    },
+    "Ice Pip Bait": {
+      "id": "(O)SpecificBait/161"
+    },
+    "Ice Pip Roe": {
+      "id": "(O)812/161"
+    },
+    "Immunity Band": {
+      "id": "(O)887"
+    },
+    "Iridium Band": {
+      "id": "(O)527"
+    },
+    "Iridium Bar": {
+      "id": "(O)337"
+    },
+    "Iridium Milk": {
+      "id": "(O)803"
+    },
+    "Iridium Ore": {
+      "id": "(O)386"
+    },
+    "Iridium Sprinkler": {
+      "id": "(O)645"
+    },
+    "Iron Bar": {
+      "id": "(O)335"
+    },
+    "Iron Fence": {
+      "id": "(O)324"
+    },
+    "Iron Ore": {
+      "id": "(O)380"
+    },
+    "Jack Be Nimble": {
+      "id": "Jack"
+    },
+    "Be Thick": {
+      "id": "(O)Book_Defense"
+    },
+    "Jack-O-Lantern": {
+      "id": "(O)746"
+    },
+    "Jade": {
+      "id": "(O)70"
+    },
+    "Jade Ring": {
+      "id": "(O)532"
+    },
+    "Jagoite": {
+      "id": "(O)549"
+    },
+    "Jamborite": {
+      "id": "(O)548"
+    },
+    "Jasper": {
+      "id": "(O)563"
+    },
+    "Jazz Seeds": {
+      "id": "(O)429"
+    },
+    "Jelly": {
+      "id": "(O)344"
+    },
+    "Jewels Of The Sea": {
+      "id": "(O)Book_Roe"
+    },
+    "Jewels Of The Sea Roe": {
+      "id": "(O)812/Book_Roe"
+    },
+    "Joja Cola": {
+      "id": "(O)167"
+    },
+    "Journal Scrap #1": {
+      "id": "(O)842/1"
+    },
+    "Journal Scrap #10": {
+      "id": "(O)842/10"
+    },
+    "Journal Scrap #11": {
+      "id": "(O)842/11"
+    },
+    "Journal Scrap #2": {
+      "id": "(O)842/2"
+    },
+    "Journal Scrap #3": {
+      "id": "(O)842/3"
+    },
+    "Journal Scrap #4": {
+      "id": "(O)842/4"
+    },
+    "Journal Scrap #5": {
+      "id": "(O)842/5"
+    },
+    "Journal Scrap #6": {
+      "id": "(O)842/6"
+    },
+    "Journal Scrap #7": {
+      "id": "(O)842/7"
+    },
+    "Journal Scrap #8": {
+      "id": "(O)842/8"
+    },
+    "Journal Scrap #9": {
+      "id": "(O)842/9"
+    },
+    "Juice": {
+      "id": "(O)350"
+    },
+    "Jukebox Ring": {
+      "id": "(O)528"
+    },
+    "Kale": {
+      "id": "(O)250"
+    },
+    "Kale Juice": {
+      "id": "(O)350/250"
+    },
+    "Kale Seeds": {
+      "id": "(O)477"
+    },
+    "Kyanite": {
+      "id": "(O)550"
+    },
+    "L. Goat Milk": {
+      "id": "(O)438"
+    },
+    "Large Egg": {
+      "id": "(O)182"
+    },
+    "Large Milk": {
+      "id": "(O)186"
+    },
+    "Largemouth Bass": {
+      "id": "(O)136"
+    },
+    "Largemouth Bass Bait": {
+      "id": "(O)SpecificBait/136"
+    },
+    "Largemouth Bass Roe": {
+      "id": "(O)812/136"
+    },
+    "Lava Eel": {
+      "id": "(O)162"
+    },
+    "Lava Eel Bait": {
+      "id": "(O)SpecificBait/162"
+    },
+    "Lava Eel Roe": {
+      "id": "(O)812/162"
+    },
+    "Lead Bobber": {
+      "id": "(O)692"
+    },
+    "Leek": {
+      "id": "(O)20"
+    },
+    "Legend": {
+      "id": "(O)163"
+    },
+    "Legend Bait": {
+      "id": "(O)SpecificBait/163"
+    },
+    "Legend II": {
+      "id": "(O)900"
+    },
+    "Legend II Bait": {
+      "id": "(O)SpecificBait/900"
+    },
+    "Legend II Roe": {
+      "id": "(O)812/900"
+    },
+    "Legend Roe": {
+      "id": "(O)812/163"
+    },
+    "Lemon Stone": {
+      "id": "(O)554"
+    },
+    "Life Elixir": {
+      "id": "(O)773"
+    },
+    "Limestone": {
+      "id": "(O)571"
+    },
+    "Lingcod": {
+      "id": "(O)707"
+    },
+    "Lingcod Bait": {
+      "id": "(O)SpecificBait/707"
+    },
+    "Lingcod Roe": {
+      "id": "(O)812/707"
+    },
+    "Lionfish": {
+      "id": "(O)837"
+    },
+    "Lionfish Bait": {
+      "id": "(O)SpecificBait/837"
+    },
+    "Lionfish Roe": {
+      "id": "(O)812/837"
+    },
+    "Lobster": {
+      "id": "(O)715"
+    },
+    "Lobster Bait": {
+      "id": "(O)SpecificBait/715"
+    },
+    "Lobster Bisque": {
+      "id": "(O)730"
+    },
+    "Lobster Roe": {
+      "id": "(O)812/715"
+    },
+    "Lost Axe": {
+      "id": "(O)788"
+    },
+    "Lost Book": {
+      "id": "(O)102"
+    },
+    "Lucky Lunch": {
+      "id": "(O)204"
+    },
+    "Lucky Purple Shorts": {
+      "id": "(O)789"
+    },
+    "Lucky Ring": {
+      "id": "(O)859"
+    },
+    "Lumber": {
+      "id": "(O)30"
+    },
+    "Lunarite": {
+      "id": "(O)551"
+    },
+    "Magic Bait": {
+      "id": "(O)908"
+    },
+    "Magic Rock Candy": {
+      "id": "(O)279"
+    },
+    "Magma Cap": {
+      "id": "(O)851"
+    },
+    "Magma Geode": {
+      "id": "(O)537"
+    },
+    "Magnet": {
+      "id": "(O)703"
+    },
+    "Magnet Ring": {
+      "id": "(O)519"
+    },
+    "Mahogany Seed": {
+      "id": "(O)292"
+    },
+    "Maki Roll": {
+      "id": "(O)228"
+    },
+    "Malachite": {
+      "id": "(O)552"
+    },
+    "Mango": {
+      "id": "(O)834"
+    },
+    "Mango Jelly": {
+      "id": "(O)344/834"
+    },
+    "Mango Sapling": {
+      "id": "(O)835"
+    },
+    "Mango Sticky Rice": {
+      "id": "(O)905"
+    },
+    "Mango Wine": {
+      "id": "(O)348/834"
+    },
+    "Maple Bar": {
+      "id": "(O)731"
+    },
+    "Maple Seed": {
+      "id": "(O)310"
+    },
+    "Maple Syrup": {
+      "id": "(O)724"
+    },
+    "Mapping Cave Systems": {
+      "id": "(O)Book_Marlon"
+    },
+    "Marble": {
+      "id": "(O)567"
+    },
+    "Mayonnaise": {
+      "id": "(O)306"
+    },
+    "Mead": {
+      "id": "(O)459"
+    },
+    "Mega Bomb": {
+      "id": "(O)288"
+    },
+    "Melon": {
+      "id": "(O)254"
+    },
+    "Melon Jelly": {
+      "id": "(O)344/254"
+    },
+    "Melon Seeds": {
+      "id": "(O)479"
+    },
+    "Melon Wine": {
+      "id": "(O)348/254"
+    },
+    "Mermaid's Pendant": {
+      "id": "(O)460"
+    },
+    "Midnight Carp": {
+      "id": "(O)269"
+    },
+    "Midnight Carp Bait": {
+      "id": "(O)SpecificBait/269"
+    },
+    "Midnight Carp Roe": {
+      "id": "(O)812/269"
+    },
+    "Midnight Squid": {
+      "id": "(O)798"
+    },
+    "Midnight Squid Bait": {
+      "id": "(O)SpecificBait/798"
+    },
+    "Midnight Squid Roe": {
+      "id": "(O)812/798"
+    },
+    "Milk": {
+      "id": "(O)184"
+    },
+    "Miner's Treat": {
+      "id": "(O)243"
+    },
+    "Mining Monthly": {
+      "id": "(O)SkillBook_3"
+    },
+    "Mixed Flower Seeds": {
+      "id": "(O)MixedFlowerSeeds"
+    },
+    "Mixed Seeds": {
+      "id": "(O)770"
+    },
+    "Monster Compendium": {
+      "id": "(O)Book_Void"
+    },
+    "Monster Musk": {
+      "id": "(O)879"
+    },
+    "Morel": {
+      "id": "(O)257"
+    },
+    "Moss": {
+      "id": "(O)Moss"
+    },
+    "Moss Soup": {
+      "id": "(O)MossSoup"
+    },
+    "Mossy Seed": {
+      "id": "(O)MossySeed"
+    },
+    "Movie Ticket": {
+      "id": "(O)809"
+    },
+    "Ms. Angler": {
+      "id": "(O)899"
+    },
+    "Ms. Angler Bait": {
+      "id": "(O)SpecificBait/899"
+    },
+    "Ms. Angler Roe": {
+      "id": "(O)812/899"
+    },
+    "Mudstone": {
+      "id": "(O)574"
+    },
+    "Mummified Bat": {
+      "id": "(O)827"
+    },
+    "Mummified Frog": {
+      "id": "(O)828"
+    },
+    "Muscle Remedy": {
+      "id": "(O)351"
+    },
+    "Mushroom Tree Seed": {
+      "id": "(O)891"
+    },
+    "Mussel": {
+      "id": "(O)719"
+    },
+    "Mussel Bait": {
+      "id": "(O)SpecificBait/719"
+    },
+    "Mussel Roe": {
+      "id": "(O)812/719"
+    },
+    "Mutant Carp": {
+      "id": "(O)682"
+    },
+    "Mutant Carp Bait": {
+      "id": "(O)SpecificBait/682"
+    },
+    "Mutant Carp Roe": {
+      "id": "(O)812/682"
+    },
+    "Mystery Box": {
+      "id": "(O)MysteryBox"
+    },
+    "Mystic Syrup": {
+      "id": "(O)MysticSyrup"
+    },
+    "Mystic Tree Seed": {
+      "id": "(O)MysticTreeSeed"
+    },
+    "Napalm Ring": {
+      "id": "(O)811"
+    },
+    "Nautilus Fossil": {
+      "id": "(O)586"
+    },
+    "Nautilus Shell": {
+      "id": "(O)392"
+    },
+    "Nekoite": {
+      "id": "(O)555"
+    },
+    "Neptunite": {
+      "id": "(O)553"
+    },
+    "Oak Resin": {
+      "id": "(O)725"
+    },
+    "Obsidian": {
+      "id": "(O)575"
+    },
+    "Ocean Stone": {
+      "id": "(O)560"
+    },
+    "Octopus": {
+      "id": "(O)149"
+    },
+    "Octopus Bait": {
+      "id": "(O)SpecificBait/149"
+    },
+    "Octopus Roe": {
+      "id": "(O)812/149"
+    },
+    "Oil": {
+      "id": "(O)247"
+    },
+    "Oil of Garlic": {
+      "id": "(O)772"
+    },
+    "Omelet": {
+      "id": "(O)195"
+    },
+    "Omni Geode": {
+      "id": "(O)749"
+    },
+    "Opal": {
+      "id": "(O)564"
+    },
+    "Orange": {
+      "id": "(O)635"
+    },
+    "Orange Jelly": {
+      "id": "(O)344/635"
+    },
+    "Orange Sapling": {
+      "id": "(O)630"
+    },
+    "Orange Wine": {
+      "id": "(O)348/635"
+    },
+    "Ornamental Fan": {
+      "id": "(O)106"
+    },
+    "Ornate Necklace": {
+      "id": "(O)191"
+    },
+    "Orpiment": {
+      "id": "(O)556"
+    },
+    "Ostrich Egg": {
+      "id": "(O)289"
+    },
+    "Oyster": {
+      "id": "(O)723"
+    },
+    "Oyster Bait": {
+      "id": "(O)SpecificBait/723"
+    },
+    "Oyster Roe": {
+      "id": "(O)812/723"
+    },
+    "Pale Ale": {
+      "id": "(O)303"
+    },
+    "Pale Broth": {
+      "id": "(O)457"
+    },
+    "Palm Fossil": {
+      "id": "(O)588"
+    },
+    "Pancakes": {
+      "id": "(O)211"
+    },
+    "Parsnip": {
+      "id": "(O)24"
+    },
+    "Parsnip Juice": {
+      "id": "(O)350/24"
+    },
+    "Parsnip Seeds": {
+      "id": "(O)472"
+    },
+    "Parsnip Soup": {
+      "id": "(O)199"
+    },
+    "Peach": {
+      "id": "(O)636"
+    },
+    "Peach Jelly": {
+      "id": "(O)344/636"
+    },
+    "Peach Sapling": {
+      "id": "(O)631"
+    },
+    "Peach Wine": {
+      "id": "(O)348/636"
+    },
+    "Pearl": {
+      "id": "(O)797"
+    },
+    "Pepper Poppers": {
+      "id": "(O)215"
+    },
+    "Pepper Seeds": {
+      "id": "(O)482"
+    },
+    "Perch": {
+      "id": "(O)141"
+    },
+    "Perch Bait": {
+      "id": "(O)SpecificBait/141"
+    },
+    "Perch Roe": {
+      "id": "(O)812/141"
+    },
+    "Periwinkle": {
+      "id": "(O)722"
+    },
+    "Periwinkle Bait": {
+      "id": "(O)SpecificBait/722"
+    },
+    "Periwinkle Roe": {
+      "id": "(O)812/722"
+    },
+    "Pet License": {
+      "id": "(O)PetLicense"
+    },
+    "Petrified Slime": {
+      "id": "(O)557"
+    },
+    "Phoenix Ring": {
+      "id": "(O)863"
+    },
+    "Pickled Amaranth": {
+      "id": "(O)342/300"
+    },
+    "Pickled Artichoke": {
+      "id": "(O)342/274"
+    },
+    "Pickled Beet": {
+      "id": "(O)342/284"
+    },
+    "Pickled Bok Choy": {
+      "id": "(O)342/278"
+    },
+    "Pickled Broccoli": {
+      "id": "(O)342/Broccoli"
+    },
+    "Pickled Carrot": {
+      "id": "(O)342/Carrot"
+    },
+    "Pickled Cauliflower": {
+      "id": "(O)342/190"
+    },
+    "Pickled Cave Carrot": {
+      "id": "(O)342/78"
+    },
+    "Pickled Chanterelle": {
+      "id": "(O)342/281"
+    },
+    "Pickled Common Mushroom": {
+      "id": "(O)342/404"
+    },
+    "Pickled Corn": {
+      "id": "(O)342/270"
+    },
+    "Pickled Daffodil": {
+      "id": "(O)342/18"
+    },
+    "Pickled Dandelion": {
+      "id": "(O)342/22"
+    },
+    "Pickled Eggplant": {
+      "id": "(O)342/272"
+    },
+    "Pickled Fiddlehead Fern": {
+      "id": "(O)342/259"
+    },
+    "Pickled Garlic": {
+      "id": "(O)342/248"
+    },
+    "Pickled Ginger": {
+      "id": "(O)342/829"
+    },
+    "Pickled Green Bean": {
+      "id": "(O)342/188"
+    },
+    "Pickled Hazelnut": {
+      "id": "(O)342/408"
+    },
+    "Pickled Holly": {
+      "id": "(O)342/283"
+    },
+    "Pickled Hops": {
+      "id": "(O)342/304"
+    },
+    "Pickled Kale": {
+      "id": "(O)342/250"
+    },
+    "Pickled Leek": {
+      "id": "(O)342/20"
+    },
+    "Pickled Magma Cap": {
+      "id": "(O)342/851"
+    },
+    "Pickled Morel": {
+      "id": "(O)342/257"
+    },
+    "Pickled Parsnip": {
+      "id": "(O)342/24"
+    },
+    "Pickled Potato": {
+      "id": "(O)342/192"
+    },
+    "Pickled Pumpkin": {
+      "id": "(O)342/276"
+    },
+    "Pickled Purple Mushroom": {
+      "id": "(O)342/422"
+    },
+    "Pickled Radish": {
+      "id": "(O)342/264"
+    },
+    "Pickled Red Cabbage": {
+      "id": "(O)342/266"
+    },
+    "Pickled Red Mushroom": {
+      "id": "(O)342/420"
+    },
+    "Pickled Sap": {
+      "id": "(O)342/92"
+    },
+    "Pickled Snow Yam": {
+      "id": "(O)342/416"
+    },
+    "Pickled Spring Onion": {
+      "id": "(O)342/399"
+    },
+    "Pickled Summer Squash": {
+      "id": "(O)342/SummerSquash"
+    },
+    "Pickled Taro Root": {
+      "id": "(O)342/830"
+    },
+    "Pickled Tea Leaves": {
+      "id": "(O)342/815"
+    },
+    "Pickled Tomato": {
+      "id": "(O)342/256"
+    },
+    "Pickled Unmilled Rice": {
+      "id": "(O)342/271"
+    },
+    "Pickled Wheat": {
+      "id": "(O)342/262"
+    },
+    "Pickled Wild Horseradish": {
+      "id": "(O)342/16"
+    },
+    "Pickled Winter Root": {
+      "id": "(O)342/412"
+    },
+    "Pickled Yam": {
+      "id": "(O)342/280"
+    },
+    "Pickles": {
+      "id": "(O)342"
+    },
+    "Pierre's Missing Stocklist": {
+      "id": "(O)897"
+    },
+    "Pike": {
+      "id": "(O)144"
+    },
+    "Pike Bait": {
+      "id": "(O)SpecificBait/144"
+    },
+    "Pike Roe": {
+      "id": "(O)812/144"
+    },
+    "Piña Colada": {
+      "id": "(O)873"
+    },
+    "Pine Cone": {
+      "id": "(O)311"
+    },
+    "Pine Tar": {
+      "id": "(O)726"
+    },
+    "Pineapple": {
+      "id": "(O)832"
+    },
+    "Pineapple Jelly": {
+      "id": "(O)344/832"
+    },
+    "Pineapple Seeds": {
+      "id": "(O)833"
+    },
+    "Pineapple Wine": {
+      "id": "(O)348/832"
+    },
+    "Pink Cake": {
+      "id": "(O)221"
+    },
+    "Pirate's Locket": {
+      "id": "(O)870"
+    },
+    "Pizza": {
+      "id": "(O)206"
+    },
+    "Plum Pudding": {
+      "id": "(O)604"
+    },
+    "Poi": {
+      "id": "(O)906"
+    },
+    "Pomegranate": {
+      "id": "(O)637"
+    },
+    "Pomegranate Jelly": {
+      "id": "(O)344/637"
+    },
+    "Pomegranate Sapling": {
+      "id": "(O)632"
+    },
+    "Pomegranate Wine": {
+      "id": "(O)348/637"
+    },
+    "Poppy": {
+      "id": "(O)376"
+    },
+    "Poppy Honey": {
+      "id": "(O)340/376"
+    },
+    "Poppy Seeds": {
+      "id": "(O)453"
+    },
+    "Poppyseed Muffin": {
+      "id": "(O)651"
+    },
+    "Potato": {
+      "id": "(O)192"
+    },
+    "Potato Juice": {
+      "id": "(O)350/192"
+    },
+    "Potato Seeds": {
+      "id": "(O)475"
+    },
+    "PotOfGold": {
+      "id": "(O)PotOfGold"
+    },
+    "Powdermelon": {
+      "id": "(O)Powdermelon"
+    },
+    "Powdermelon Jelly": {
+      "id": "(O)344/Powdermelon"
+    },
+    "Powdermelon Seeds": {
+      "id": "(O)PowdermelonSeeds"
+    },
+    "Powdermelon Wine": {
+      "id": "(O)348/Powdermelon"
+    },
+    "Prehistoric Handaxe": {
+      "id": "(O)120"
+    },
+    "Prehistoric Rib": {
+      "id": "(O)583"
+    },
+    "Prehistoric Scapula": {
+      "id": "(O)579"
+    },
+    "Prehistoric Skull": {
+      "id": "(O)581"
+    },
+    "Prehistoric Tibia": {
+      "id": "(O)580"
+    },
+    "Prehistoric Tool": {
+      "id": "(O)115"
+    },
+    "Prehistoric Vertebra": {
+      "id": "(O)584"
+    },
+    "Pressure Nozzle": {
+      "id": "(O)915"
+    },
+    "Price Catalogue": {
+      "id": "(O)Book_PriceCatalogue"
+    },
+    "Prismatic Jelly": {
+      "id": "(O)876"
+    },
+    "Prismatic Shard": {
+      "id": "(O)74"
+    },
+    "Prize Ticket": {
+      "id": "(O)PrizeTicket"
+    },
+    "Protection Ring": {
+      "id": "(O)861"
+    },
+    "Pufferfish": {
+      "id": "(O)128"
+    },
+    "Pufferfish Bait": {
+      "id": "(O)SpecificBait/128"
+    },
+    "Pufferfish Roe": {
+      "id": "(O)812/128"
+    },
+    "Pumpkin": {
+      "id": "(O)276"
+    },
+    "Pumpkin Juice": {
+      "id": "(O)350/276"
+    },
+    "Pumpkin Pie": {
+      "id": "(O)608"
+    },
+    "Pumpkin Seeds": {
+      "id": "(O)490"
+    },
+    "Pumpkin Soup": {
+      "id": "(O)236"
+    },
+    "Purple Mushroom": {
+      "id": "(O)422"
+    },
+    "Purple Slime Egg": {
+      "id": "(O)439"
+    },
+    "Pyrite": {
+      "id": "(O)559"
+    },
+    "Qi Bean": {
+      "id": "(O)890"
+    },
+    "Qi Fruit": {
+      "id": "(O)889"
+    },
+    "Qi Fruit Jelly": {
+      "id": "(O)344/889"
+    },
+    "Qi Fruit Wine": {
+      "id": "(O)348/889"
+    },
+    "Qi Gem": {
+      "id": "(O)858"
+    },
+    "Qi Seasoning": {
+      "id": "(O)917"
+    },
+    "Quality Bobber": {
+      "id": "(O)877"
+    },
+    "Quality Fertilizer": {
+      "id": "(O)369"
+    },
+    "Quality Retaining Soil": {
+      "id": "(O)371"
+    },
+    "Quality Sprinkler": {
+      "id": "(O)621"
+    },
+    "Quartz": {
+      "id": "(O)80"
+    },
+    "Queen Of Sauce Cookbook": {
+      "id": "(O)Book_QueenOfSauce"
+    },
+    "Rabbit's Foot": {
+      "id": "(O)446"
+    },
+    "Radioactive Bar": {
+      "id": "(O)910"
+    },
+    "Radioactive Carp": {
+      "id": "(O)901"
+    },
+    "Radioactive Carp Bait": {
+      "id": "(O)SpecificBait/901"
+    },
+    "Radioactive Carp Roe": {
+      "id": "(O)812/901"
+    },
+    "Radioactive Ore": {
+      "id": "(O)909"
+    },
+    "Radish": {
+      "id": "(O)264"
+    },
+    "Radish Juice": {
+      "id": "(O)350/264"
+    },
+    "Radish Salad": {
+      "id": "(O)609"
+    },
+    "Radish Seeds": {
+      "id": "(O)484"
+    },
+    "Rain Totem": {
+      "id": "(O)681"
+    },
+    "Rainbow Shell": {
+      "id": "(O)394"
+    },
+    "Rainbow Trout": {
+      "id": "(O)138"
+    },
+    "Rainbow Trout Bait": {
+      "id": "(O)SpecificBait/138"
+    },
+    "Rainbow Trout Roe": {
+      "id": "(O)812/138"
+    },
+    "Raisins": {
+      "id": "(O)Raisins"
+    },
+    "Rare Disc": {
+      "id": "(O)108"
+    },
+    "Rare Seed": {
+      "id": "(O)347"
+    },
+    "Red Cabbage": {
+      "id": "(O)266"
+    },
+    "Red Cabbage Juice": {
+      "id": "(O)350/266"
+    },
+    "Red Cabbage Seeds": {
+      "id": "(O)485"
+    },
+    "Red Mullet": {
+      "id": "(O)146"
+    },
+    "Red Mullet Bait": {
+      "id": "(O)SpecificBait/146"
+    },
+    "Red Mullet Roe": {
+      "id": "(O)812/146"
+    },
+    "Red Mushroom": {
+      "id": "(O)420"
+    },
+    "Red Plate": {
+      "id": "(O)230"
+    },
+    "Red Slime Egg": {
+      "id": "(O)437"
+    },
+    "Red Snapper": {
+      "id": "(O)150"
+    },
+    "Red Snapper Bait": {
+      "id": "(O)SpecificBait/150"
+    },
+    "Red Snapper Roe": {
+      "id": "(O)812/150"
+    },
+    "Refined Quartz": {
+      "id": "(O)338"
+    },
+    "Rhubarb": {
+      "id": "(O)252"
+    },
+    "Rhubarb Jelly": {
+      "id": "(O)344/252"
+    },
+    "Rhubarb Pie": {
+      "id": "(O)222"
+    },
+    "Rhubarb Seeds": {
+      "id": "(O)478"
+    },
+    "Rhubarb Wine": {
+      "id": "(O)348/252"
+    },
+    "Rice": {
+      "id": "(O)423"
+    },
+    "Rice Pudding": {
+      "id": "(O)232"
+    },
+    "Rice Shoot": {
+      "id": "(O)273"
+    },
+    "Ring of Yoba": {
+      "id": "(O)524"
+    },
+    "River Jelly": {
+      "id": "(O)RiverJelly"
+    },
+    "Roasted Hazelnuts": {
+      "id": "(O)607"
+    },
+    "Roe": {
+      "id": "(O)812"
+    },
+    "Roots Platter": {
+      "id": "(O)244"
+    },
+    "Rotten Plant": {
+      "id": "(O)748"
+    },
+    "Ruby": {
+      "id": "(O)64"
+    },
+    "Ruby Ring": {
+      "id": "(O)534"
+    },
+    "Rustic Plank Floor": {
+      "id": "(O)840"
+    },
+    "Rusty Cog": {
+      "id": "(O)112"
+    },
+    "Rusty Spoon": {
+      "id": "(O)110"
+    },
+    "Rusty Spur": {
+      "id": "(O)111"
+    },
+    "Salad": {
+      "id": "(O)196"
+    },
+    "Salmon": {
+      "id": "(O)139"
+    },
+    "Salmon Bait": {
+      "id": "(O)SpecificBait/139"
+    },
+    "Salmon Dinner": {
+      "id": "(O)212"
+    },
+    "Salmon Roe": {
+      "id": "(O)812/139"
+    },
+    "Salmonberry": {
+      "id": "(O)296"
+    },
+    "Salmonberry Jelly": {
+      "id": "(O)344/296"
+    },
+    "Salmonberry Wine": {
+      "id": "(O)348/296"
+    },
+    "Sandfish": {
+      "id": "(O)164"
+    },
+    "Sandfish Bait": {
+      "id": "(O)SpecificBait/164"
+    },
+    "Sandfish Roe": {
+      "id": "(O)812/164"
+    },
+    "Sandstone": {
+      "id": "(O)568"
+    },
+    "Sap": {
+      "id": "(O)92"
+    },
+    "Sardine": {
+      "id": "(O)131"
+    },
+    "Sardine Bait": {
+      "id": "(O)SpecificBait/131"
+    },
+    "Sardine Roe": {
+      "id": "(O)812/131"
+    },
+    "Sashimi": {
+      "id": "(O)227"
+    },
+    "Savage Ring": {
+      "id": "(O)523"
+    },
+    "Scorpion Carp": {
+      "id": "(O)165"
+    },
+    "Scorpion Carp Bait": {
+      "id": "(O)SpecificBait/165"
+    },
+    "Scorpion Carp Roe": {
+      "id": "(O)812/165"
+    },
+    "Sea Cucumber": {
+      "id": "(O)154"
+    },
+    "Sea Cucumber Bait": {
+      "id": "(O)SpecificBait/154"
+    },
+    "Sea Cucumber Roe": {
+      "id": "(O)812/154"
+    },
+    "Sea Jelly": {
+      "id": "(O)SeaJelly"
+    },
+    "Sea Urchin": {
+      "id": "(O)397"
+    },
+    "Seafoam Pudding": {
+      "id": "(O)265"
+    },
+    "Seaweed": {
+      "id": "(O)152"
+    },
+    "Secret Note #1": {
+      "id": "(O)79/1"
+    },
+    "Secret Note #10": {
+      "id": "(O)79/10"
+    },
+    "Secret Note #11": {
+      "id": "(O)79/11"
+    },
+    "Secret Note #12": {
+      "id": "(O)79/12"
+    },
+    "Secret Note #13": {
+      "id": "(O)79/13"
+    },
+    "Secret Note #14": {
+      "id": "(O)79/14"
+    },
+    "Secret Note #15": {
+      "id": "(O)79/15"
+    },
+    "Secret Note #16": {
+      "id": "(O)79/16"
+    },
+    "Secret Note #17": {
+      "id": "(O)79/17"
+    },
+    "Secret Note #18": {
+      "id": "(O)79/18"
+    },
+    "Secret Note #19": {
+      "id": "(O)79/19"
+    },
+    "Secret Note #2": {
+      "id": "(O)79/2"
+    },
+    "Secret Note #20": {
+      "id": "(O)79/20"
+    },
+    "Secret Note #21": {
+      "id": "(O)79/21"
+    },
+    "Secret Note #22": {
+      "id": "(O)79/22"
+    },
+    "Secret Note #23": {
+      "id": "(O)79/23"
+    },
+    "Secret Note #24": {
+      "id": "(O)79/24"
+    },
+    "Secret Note #25": {
+      "id": "(O)79/25"
+    },
+    "Secret Note #26": {
+      "id": "(O)79/26"
+    },
+    "Secret Note #27": {
+      "id": "(O)79/27"
+    },
+    "Secret Note #3": {
+      "id": "(O)79/3"
+    },
+    "Secret Note #4": {
+      "id": "(O)79/4"
+    },
+    "Secret Note #5": {
+      "id": "(O)79/5"
+    },
+    "Secret Note #6": {
+      "id": "(O)79/6"
+    },
+    "Secret Note #7": {
+      "id": "(O)79/7"
+    },
+    "Secret Note #8": {
+      "id": "(O)79/8"
+    },
+    "Secret Note #9": {
+      "id": "(O)79/9"
+    },
+    "Seed Spot": {
+      "id": "(O)SeedSpot"
+    },
+    "Shad": {
+      "id": "(O)706"
+    },
+    "Shad Bait": {
+      "id": "(O)SpecificBait/706"
+    },
+    "Shad Roe": {
+      "id": "(O)812/706"
+    },
+    "Shrimp": {
+      "id": "(O)720"
+    },
+    "Shrimp Bait": {
+      "id": "(O)SpecificBait/720"
+    },
+    "Shrimp Cocktail": {
+      "id": "(O)733"
+    },
+    "Shrimp Roe": {
+      "id": "(O)812/720"
+    },
+    "Skeletal Hand": {
+      "id": "(O)582"
+    },
+    "Skeletal Tail": {
+      "id": "(O)585"
+    },
+    "Slate": {
+      "id": "(O)576"
+    },
+    "Slime": {
+      "id": "(O)766"
+    },
+    "Slime Charmer Ring": {
+      "id": "(O)520"
+    },
+    "Slime Crate": {
+      "id": "(O)925"
+    },
+    "Slimejack": {
+      "id": "(O)796"
+    },
+    "Slimejack Bait": {
+      "id": "(O)SpecificBait/796"
+    },
+    "Slimejack Roe": {
+      "id": "(O)812/796"
+    },
+    "Small Glow Ring": {
+      "id": "(O)516"
+    },
+    "Small Magnet Ring": {
+      "id": "(O)518"
+    },
+    "Smallmouth Bass": {
+      "id": "(O)137"
+    },
+    "Smallmouth Bass Bait": {
+      "id": "(O)SpecificBait/137"
+    },
+    "Smallmouth Bass Roe": {
+      "id": "(O)812/137"
+    },
+    "Smoked Albacore": {
+      "id": "(O)SmokedFish/705"
+    },
+    "Smoked Anchovy": {
+      "id": "(O)SmokedFish/129"
+    },
+    "Smoked Angler": {
+      "id": "(O)SmokedFish/160"
+    },
+    "Smoked Blobfish": {
+      "id": "(O)SmokedFish/800"
+    },
+    "Smoked Blue Discus": {
+      "id": "(O)SmokedFish/838"
+    },
+    "Smoked Bream": {
+      "id": "(O)SmokedFish/132"
+    },
+    "Smoked Bullhead": {
+      "id": "(O)SmokedFish/700"
+    },
+    "Smoked Carp": {
+      "id": "(O)SmokedFish/142"
+    },
+    "Smoked Catfish": {
+      "id": "(O)SmokedFish/143"
+    },
+    "Smoked Chub": {
+      "id": "(O)SmokedFish/702"
+    },
+    "Smoked Clam": {
+      "id": "(O)SmokedFish/372"
+    },
+    "Smoked Cockle": {
+      "id": "(O)SmokedFish/718"
+    },
+    "Smoked Crab": {
+      "id": "(O)SmokedFish/717"
+    },
+    "Smoked Crayfish": {
+      "id": "(O)SmokedFish/716"
+    },
+    "Smoked Crimsonfish": {
+      "id": "(O)SmokedFish/159"
+    },
+    "Smoked Dorado": {
+      "id": "(O)SmokedFish/704"
+    },
+    "Smoked Eel": {
+      "id": "(O)SmokedFish/148"
+    },
+    "Smoked Flounder": {
+      "id": "(O)SmokedFish/267"
+    },
+    "Smoked Ghostfish": {
+      "id": "(O)SmokedFish/156"
+    },
+    "Smoked Glacierfish": {
+      "id": "(O)SmokedFish/775"
+    },
+    "Smoked Glacierfish Jr.": {
+      "id": "(O)SmokedFish/902"
+    },
+    "Smoked Goby": {
+      "id": "(O)SmokedFish/Goby"
+    },
+    "Smoked Halibut": {
+      "id": "(O)SmokedFish/708"
+    },
+    "Smoked Herring": {
+      "id": "(O)SmokedFish/147"
+    },
+    "Smoked Ice Pip": {
+      "id": "(O)SmokedFish/161"
+    },
+    "Smoked Largemouth Bass": {
+      "id": "(O)SmokedFish/136"
+    },
+    "Smoked Lava Eel": {
+      "id": "(O)SmokedFish/162"
+    },
+    "Smoked Legend": {
+      "id": "(O)SmokedFish/163"
+    },
+    "Smoked Legend II": {
+      "id": "(O)SmokedFish/900"
+    },
+    "Smoked Lingcod": {
+      "id": "(O)SmokedFish/707"
+    },
+    "Smoked Lionfish": {
+      "id": "(O)SmokedFish/837"
+    },
+    "Smoked Lobster": {
+      "id": "(O)SmokedFish/715"
+    },
+    "Smoked Midnight Carp": {
+      "id": "(O)SmokedFish/269"
+    },
+    "Smoked Midnight Squid": {
+      "id": "(O)SmokedFish/798"
+    },
+    "Smoked Ms. Angler": {
+      "id": "(O)SmokedFish/899"
+    },
+    "Smoked Mussel": {
+      "id": "(O)SmokedFish/719"
+    },
+    "Smoked Mutant Carp": {
+      "id": "(O)SmokedFish/682"
+    },
+    "Smoked Octopus": {
+      "id": "(O)SmokedFish/149"
+    },
+    "Smoked Oyster": {
+      "id": "(O)SmokedFish/723"
+    },
+    "Smoked Perch": {
+      "id": "(O)SmokedFish/141"
+    },
+    "Smoked Periwinkle": {
+      "id": "(O)SmokedFish/722"
+    },
+    "Smoked Pike": {
+      "id": "(O)SmokedFish/144"
+    },
+    "Smoked Pufferfish": {
+      "id": "(O)SmokedFish/128"
+    },
+    "Smoked Radioactive Carp": {
+      "id": "(O)SmokedFish/901"
+    },
+    "Smoked Rainbow Trout": {
+      "id": "(O)SmokedFish/138"
+    },
+    "Smoked Red Mullet": {
+      "id": "(O)SmokedFish/146"
+    },
+    "Smoked Red Snapper": {
+      "id": "(O)SmokedFish/150"
+    },
+    "Smoked Salmon": {
+      "id": "(O)SmokedFish/139"
+    },
+    "Smoked Sandfish": {
+      "id": "(O)SmokedFish/164"
+    },
+    "Smoked Sardine": {
+      "id": "(O)SmokedFish/131"
+    },
+    "Smoked Scorpion Carp": {
+      "id": "(O)SmokedFish/165"
+    },
+    "Smoked Sea Cucumber": {
+      "id": "(O)SmokedFish/154"
+    },
+    "Smoked Shad": {
+      "id": "(O)SmokedFish/706"
+    },
+    "Smoked Shrimp": {
+      "id": "(O)SmokedFish/720"
+    },
+    "Smoked Slimejack": {
+      "id": "(O)SmokedFish/796"
+    },
+    "Smoked Smallmouth Bass": {
+      "id": "(O)SmokedFish/137"
+    },
+    "Smoked Snail": {
+      "id": "(O)SmokedFish/721"
+    },
+    "Smoked Son of Crimsonfish": {
+      "id": "(O)SmokedFish/898"
+    },
+    "Smoked Spook Fish": {
+      "id": "(O)SmokedFish/799"
+    },
+    "Smoked Squid": {
+      "id": "(O)SmokedFish/151"
+    },
+    "Smoked Stingray": {
+      "id": "(O)SmokedFish/836"
+    },
+    "Smoked Stonefish": {
+      "id": "(O)SmokedFish/158"
+    },
+    "Smoked Sturgeon": {
+      "id": "(O)SmokedFish/698"
+    },
+    "Smoked Sunfish": {
+      "id": "(O)SmokedFish/145"
+    },
+    "Smoked Super Cucumber": {
+      "id": "(O)SmokedFish/155"
+    },
+    "Smoked Tiger Trout": {
+      "id": "(O)SmokedFish/699"
+    },
+    "Smoked Tilapia": {
+      "id": "(O)SmokedFish/701"
+    },
+    "Smoked Tuna": {
+      "id": "(O)SmokedFish/130"
+    },
+    "Smoked Void Salmon": {
+      "id": "(O)SmokedFish/795"
+    },
+    "Smoked Walleye": {
+      "id": "(O)SmokedFish/140"
+    },
+    "Smoked Woodskip": {
+      "id": "(O)SmokedFish/734"
+    },
+    "Snail": {
+      "id": "(O)721"
+    },
+    "Snail Bait": {
+      "id": "(O)SpecificBait/721"
+    },
+    "Snail Roe": {
+      "id": "(O)812/721"
+    },
+    "Snake Skull": {
+      "id": "(O)825"
+    },
+    "Snake Vertebrae": {
+      "id": "(O)826"
+    },
+    "Snow Yam": {
+      "id": "(O)416"
+    },
+    "Soapstone": {
+      "id": "(O)572"
+    },
+    "Soggy Newspaper": {
+      "id": "(O)172"
+    },
+    "Solar Essence": {
+      "id": "(O)768"
+    },
+    "Son of Crimsonfish": {
+      "id": "(O)898"
+    },
+    "Son of Crimsonfish Bait": {
+      "id": "(O)SpecificBait/898"
+    },
+    "Son of Crimsonfish Roe": {
+      "id": "(O)812/898"
+    },
+    "Sonar Bobber": {
+      "id": "(O)SonarBobber"
+    },
+    "Soul Sapper Ring": {
+      "id": "(O)862"
+    },
+    "Spaghetti": {
+      "id": "(O)224"
+    },
+    "Spangle Seeds": {
+      "id": "(O)455"
+    },
+    "Speed-Gro": {
+      "id": "(O)465"
+    },
+    "Spice Berry": {
+      "id": "(O)396"
+    },
+    "Spice Berry Jelly": {
+      "id": "(O)344/396"
+    },
+    "Spice Berry Wine": {
+      "id": "(O)348/396"
+    },
+    "Spicy Eel": {
+      "id": "(O)226"
+    },
+    "Spinner": {
+      "id": "(O)686"
+    },
+    "Spirit Torch": {
+      "id": "(O)94"
+    },
+    "Spook Fish": {
+      "id": "(O)799"
+    },
+    "Spook Fish Bait": {
+      "id": "(O)SpecificBait/799"
+    },
+    "Spook Fish Roe": {
+      "id": "(O)812/799"
+    },
+    "Spring Onion": {
+      "id": "(O)399"
+    },
+    "Spring Seeds": {
+      "id": "(O)495"
+    },
+    "Sprinkler": {
+      "id": "(O)599"
+    },
+    "Squid": {
+      "id": "(O)151"
+    },
+    "Squid Bait": {
+      "id": "(O)SpecificBait/151"
+    },
+    "Squid Ink": {
+      "id": "(O)814"
+    },
+    "Squid Ink Ravioli": {
+      "id": "(O)921"
+    },
+    "Squid Roe": {
+      "id": "(O)812/151"
+    },
+    "Star Shards": {
+      "id": "(O)578"
+    },
+    "Stardew Valley Almanac": {
+      "id": "(O)SkillBook_0"
+    },
+    "Stardew Valley Rose": {
+      "id": "(O)866"
+    },
+    "Stardrop Tea": {
+      "id": "(O)StardropTea"
+    },
+    "Starfruit": {
+      "id": "(O)268"
+    },
+    "Starfruit Jelly": {
+      "id": "(O)344/268"
+    },
+    "Starfruit Seeds": {
+      "id": "(O)486"
+    },
+    "Starfruit Wine": {
+      "id": "(O)348/268"
+    },
+    "Stepping Stone Path": {
+      "id": "(O)415"
+    },
+    "Stingray": {
+      "id": "(O)836"
+    },
+    "Stingray Bait": {
+      "id": "(O)SpecificBait/836"
+    },
+    "Stingray Roe": {
+      "id": "(O)812/836"
+    },
+    "Stir Fry": {
+      "id": "(O)606"
+    },
+    "Stone": {
+      "id": "(O)BasicCoalNode1"
+    },
+    "Stone Base": {
+      "id": "(O)449"
+    },
+    "Stone Fence": {
+      "id": "(O)323"
+    },
+    "Stone Floor": {
+      "id": "(O)329"
+    },
+    "Stone Walkway Floor": {
+      "id": "(O)841"
+    },
+    "Stonefish": {
+      "id": "(O)158"
+    },
+    "Stonefish Bait": {
+      "id": "(O)SpecificBait/158"
+    },
+    "Stonefish Roe": {
+      "id": "(O)812/158"
+    },
+    "Strange Bun": {
+      "id": "(O)203"
+    },
+    "Strange Doll": {
+      "id": "(O)127"
+    },
+    "Straw Floor": {
+      "id": "(O)401"
+    },
+    "Strawberry": {
+      "id": "(O)400"
+    },
+    "Strawberry Jelly": {
+      "id": "(O)344/400"
+    },
+    "Strawberry Seeds": {
+      "id": "(O)745"
+    },
+    "Strawberry Wine": {
+      "id": "(O)348/400"
+    },
+    "Stuffing": {
+      "id": "(O)239"
+    },
+    "Sturdy Ring": {
+      "id": "(O)525"
+    },
+    "Sturgeon": {
+      "id": "(O)698"
+    },
+    "Sturgeon Bait": {
+      "id": "(O)SpecificBait/698"
+    },
+    "Sturgeon Roe": {
+      "id": "(O)812/698"
+    },
+    "Sugar": {
+      "id": "(O)245"
+    },
+    "Summer Seeds": {
+      "id": "(O)496"
+    },
+    "Summer Spangle": {
+      "id": "(O)593"
+    },
+    "Summer Spangle Honey": {
+      "id": "(O)340/593"
+    },
+    "Summer Squash": {
+      "id": "(O)SummerSquash"
+    },
+    "Summer Squash Juice": {
+      "id": "(O)350/SummerSquash"
+    },
+    "Summer Squash Seeds": {
+      "id": "(O)SummerSquashSeeds"
+    },
+    "Sunfish": {
+      "id": "(O)145"
+    },
+    "Sunfish Bait": {
+      "id": "(O)SpecificBait/145"
+    },
+    "Sunfish Roe": {
+      "id": "(O)812/145"
+    },
+    "Sunflower": {
+      "id": "(O)421"
+    },
+    "Sunflower Honey": {
+      "id": "(O)340/421"
+    },
+    "Sunflower Seeds": {
+      "id": "(O)431"
+    },
+    "Super Cucumber": {
+      "id": "(O)155"
+    },
+    "Super Cucumber Bait": {
+      "id": "(O)SpecificBait/155"
+    },
+    "Super Cucumber Roe": {
+      "id": "(O)812/155"
+    },
+    "Super Meal": {
+      "id": "(O)237"
+    },
+    "SupplyCrate": {
+      "id": "(O)924"
+    },
+    "Survival Burger": {
+      "id": "(O)241"
+    },
+    "Sweet Gem Berry": {
+      "id": "(O)417"
+    },
+    "Sweet Pea": {
+      "id": "(O)402"
+    },
+    "Sweet Pea Honey": {
+      "id": "(O)340/402"
+    },
+    "Taro Root": {
+      "id": "(O)830"
+    },
+    "Taro Root Juice": {
+      "id": "(O)350/830"
+    },
+    "Taro Tuber": {
+      "id": "(O)831"
+    },
+    "Tea Leaves": {
+      "id": "(O)815"
+    },
+    "Tea Leaves Juice": {
+      "id": "(O)350/815"
+    },
+    "Tea Sapling": {
+      "id": "(O)251"
+    },
+    "Tea Set": {
+      "id": "(O)341"
+    },
+    "Tent Kit": {
+      "id": "(O)TentKit"
+    },
+    "The Alleyway Buffet": {
+      "id": "(O)Book_Trash"
+    },
+    "The Art O' Crabbing": {
+      "id": "(O)Book_Crabbing"
+    },
+    "The Diamond Hunter": {
+      "id": "(O)Book_Diamonds"
+    },
+    "Thorns Ring": {
+      "id": "(O)839"
+    },
+    "Thunder Egg": {
+      "id": "(O)558"
+    },
+    "Tiger Slime Egg": {
+      "id": "(O)857"
+    },
+    "Tiger Trout": {
+      "id": "(O)699"
+    },
+    "Tiger Trout Bait": {
+      "id": "(O)SpecificBait/699"
+    },
+    "Tiger Trout Roe": {
+      "id": "(O)812/699"
+    },
+    "Tigerseye": {
+      "id": "(O)562"
+    },
+    "Tilapia": {
+      "id": "(O)701"
+    },
+    "Tilapia Bait": {
+      "id": "(O)SpecificBait/701"
+    },
+    "Tilapia Roe": {
+      "id": "(O)812/701"
+    },
+    "Tom Kha Soup": {
+      "id": "(O)218"
+    },
+    "Tomato": {
+      "id": "(O)256"
+    },
+    "Tomato Juice": {
+      "id": "(O)350/256"
+    },
+    "Tomato Seeds": {
+      "id": "(O)480"
+    },
+    "Topaz": {
+      "id": "(O)68"
+    },
+    "Topaz Ring": {
+      "id": "(O)530"
+    },
+    "Torch": {
+      "id": "(O)93"
+    },
+    "Tortilla": {
+      "id": "(O)229"
+    },
+    "Trap Bobber": {
+      "id": "(O)694"
+    },
+    "Trash": {
+      "id": "(O)168"
+    },
+    "Treasure Chest": {
+      "id": "(O)166"
+    },
+    "Treasure Hunter": {
+      "id": "(O)693"
+    },
+    "Treasure Totem": {
+      "id": "(O)TreasureTotem"
+    },
+    "Tree Fertilizer": {
+      "id": "(O)805"
+    },
+    "Trilobite": {
+      "id": "(O)589"
+    },
+    "Trimmed Lucky Purple Shorts": {
+      "id": "(P)15"
+    },
+    "Triple Shot Espresso": {
+      "id": "(O)253"
+    },
+    "Tropical Curry": {
+      "id": "(O)907"
+    },
+    "Trout Soup": {
+      "id": "(O)219"
+    },
+    "Truffle": {
+      "id": "(O)430"
+    },
+    "Truffle Oil": {
+      "id": "(O)432"
+    },
+    "Tulip": {
+      "id": "(O)591"
+    },
+    "Tulip Bulb": {
+      "id": "(O)427"
+    },
+    "Tulip Honey": {
+      "id": "(O)340/591"
+    },
+    "Tuna": {
+      "id": "(O)130"
+    },
+    "Tuna Bait": {
+      "id": "(O)SpecificBait/130"
+    },
+    "Tuna Roe": {
+      "id": "(O)812/130"
+    },
+    "Twig": {
+      "id": "(O)295"
+    },
+    "Unmilled Rice": {
+      "id": "(O)271"
+    },
+    "Unmilled Rice Juice": {
+      "id": "(O)350/271"
+    },
+    "Vampire Ring": {
+      "id": "(O)522"
+    },
+    "Vegetable Medley": {
+      "id": "(O)200"
+    },
+    "Vinegar": {
+      "id": "(O)419"
+    },
+    "Void Egg": {
+      "id": "(O)305"
+    },
+    "Void Essence": {
+      "id": "(O)769"
+    },
+    "Void Ghost Pendant": {
+      "id": "(O)808"
+    },
+    "Void Mayonnaise": {
+      "id": "(O)308"
+    },
+    "Void Salmon": {
+      "id": "(O)795"
+    },
+    "Void Salmon Bait": {
+      "id": "(O)SpecificBait/795"
+    },
+    "Void Salmon Roe": {
+      "id": "(O)812/795"
+    },
+    "Walleye": {
+      "id": "(O)140"
+    },
+    "Walleye Bait": {
+      "id": "(O)SpecificBait/140"
+    },
+    "Walleye Roe": {
+      "id": "(O)812/140"
+    },
+    "War Memento": {
+      "id": "(O)864"
+    },
+    "Warp Totem: Beach": {
+      "id": "(O)690"
+    },
+    "Warp Totem: Desert": {
+      "id": "(O)261"
+    },
+    "Warp Totem: Farm": {
+      "id": "(O)688"
+    },
+    "Warp Totem: Island": {
+      "id": "(O)886"
+    },
+    "Warp Totem: Mountains": {
+      "id": "(O)689"
+    },
+    "Warp Totem: Qi's Arena": {
+      "id": "(O)892"
+    },
+    "Warrior Ring": {
+      "id": "(O)521"
+    },
+    "Way Of The Wind pt. 1": {
+      "id": "(O)Book_Speed"
+    },
+    "Way Of The Wind pt. 2": {
+      "id": "(O)Book_Speed2"
+    },
+    "Ways Of The Wild": {
+      "id": "(O)Book_WildSeeds"
+    },
+    "Weathered Floor": {
+      "id": "(O)331"
+    },
+    "Wedding Ring": {
+      "id": "(O)801"
+    },
+    "Weeds": {
+      "id": "(O)884"
+    },
+    "Wheat": {
+      "id": "(O)262"
+    },
+    "Wheat Flour": {
+      "id": "(O)246"
+    },
+    "Wheat Juice": {
+      "id": "(O)350/262"
+    },
+    "Wheat Seeds": {
+      "id": "(O)483"
+    },
+    "White Algae": {
+      "id": "(O)157"
+    },
+    "Wild Bait": {
+      "id": "(O)774"
+    },
+    "Wild Honey": {
+      "id": "(O)340"
+    },
+    "Wild Horseradish": {
+      "id": "(O)16"
+    },
+    "Wild Plum": {
+      "id": "(O)406"
+    },
+    "Wild Plum Jelly": {
+      "id": "(O)344/406"
+    },
+    "Wild Plum Wine": {
+      "id": "(O)348/406"
+    },
+    "Wilted Bouquet": {
+      "id": "(O)277"
+    },
+    "Wine": {
+      "id": "(O)348"
+    },
+    "Winter Root": {
+      "id": "(O)412"
+    },
+    "Winter Seeds": {
+      "id": "(O)498"
+    },
+    "Wood": {
+      "id": "(O)388"
+    },
+    "Wood Fence": {
+      "id": "(O)322"
+    },
+    "Wood Floor": {
+      "id": "(O)328"
+    },
+    "Wood Path": {
+      "id": "(O)405"
+    },
+    "Woodcutter's Weekly": {
+      "id": "(O)SkillBook_2"
+    },
+    "Woodskip": {
+      "id": "(O)734"
+    },
+    "Woodskip Bait": {
+      "id": "(O)SpecificBait/734"
+    },
+    "Woodskip Roe": {
+      "id": "(O)812/734"
+    },
+    "Woody's Secret": {
+      "id": "(O)Book_Woodcutting"
+    },
+    "Wool": {
+      "id": "(O)440"
+    },
+    "Wriggling Worm": {
+      "id": "(O)869"
+    },
+    "Yam": {
+      "id": "(O)280"
+    },
+    "Yam Juice": {
+      "id": "(O)350/280"
+    },
+    "Yam Seeds": {
+      "id": "(O)492"
+    },
+    "Baggy Pants": {
+      "id": "(P)10"
+    },
+    "Dinosaur Pants": {
+      "id": "(P)5"
+    },
+    "Dress": {
+      "id": "(P)2"
+    },
+    "Farmer Pants": {
+      "id": "(P)0"
+    },
+    "Genie Pants": {
+      "id": "(P)8"
+    },
+    "Grass Skirt": {
+      "id": "(P)6"
+    },
+    "Luau Skirt": {
+      "id": "(P)7"
+    },
+    "Pleated Skirt": {
+      "id": "(P)4"
+    },
+    "Polka Dot Shorts": {
+      "id": "(P)14"
+    },
+    "Prismatic Genie Pants": {
+      "id": "(P)999"
+    },
+    "Prismatic Pants": {
+      "id": "(P)998"
+    },
+    "Relaxed Fit Pants": {
+      "id": "(P)12"
+    },
+    "Relaxed Fit Shorts": {
+      "id": "(P)13"
+    },
+    "Shorts": {
+      "id": "(P)1"
+    },
+    "Simple Dress": {
+      "id": "(P)11"
+    },
+    "Skirt": {
+      "id": "(P)3"
+    },
+    "Tight Pants": {
+      "id": "(P)9"
+    },
+    "80's Shirt (F)": {
+      "id": "(S)1136"
+    },
+    "80's Shirt (M)": {
+      "id": "(S)1152"
+    },
+    "Antiquity Shirt": {
+      "id": "(S)1227"
+    },
+    "Aquamarine Shirt": {
+      "id": "(S)1009"
+    },
+    "Arcane Shirt": {
+      "id": "(S)1215"
+    },
+    "Backpack Shirt": {
+      "id": "(S)1196"
+    },
+    "Banana Shirt": {
+      "id": "(S)1293"
+    },
+    "Bandana Shirt": {
+      "id": "(S)1206"
+    },
+    "Basic Pullover (F)": {
+      "id": "(S)1177"
+    },
+    "Basic Pullover (M)": {
+      "id": "(S)SoftEdgePullover"
+    },
+    "Belted Coat": {
+      "id": "(S)1221"
+    },
+    "Bikini Top": {
+      "id": "(S)1134"
+    },
+    "Black Leather Jacket": {
+      "id": "(S)1138"
+    },
+    "Blacksmith Apron": {
+      "id": "(S)1172"
+    },
+    "Blue Buttoned Vest": {
+      "id": "(S)1278"
+    },
+    "Blue Hoodie": {
+      "id": "(S)1161"
+    },
+    "Blue Long Vest": {
+      "id": "(S)1242"
+    },
+    "Bobo Shirt": {
+      "id": "(S)1245"
+    },
+    "Bomber Jacket": {
+      "id": "(S)1155"
+    },
+    "Bridal Shirt": {
+      "id": "(S)1265"
+    },
+    "Brown Jacket": {
+      "id": "(S)1018"
+    },
+    "Brown Overalls": {
+      "id": "(S)1266"
+    },
+    "Brown Suit": {
+      "id": "(S)1237"
+    },
+    "Burger Shirt": {
+      "id": "(S)1247"
+    },
+    "Button Down Shirt": {
+      "id": "(S)1140"
+    },
+    "Camo Shirt": {
+      "id": "(S)1274"
+    },
+    "Canvas Jacket": {
+      "id": "(S)1231"
+    },
+    "Captain's Uniform": {
+      "id": "(S)1239"
+    },
+    "Cardigan": {
+      "id": "(S)1218"
+    },
+    "Carp Shirt": {
+      "id": "(S)1250"
+    },
+    "Caveman Shirt": {
+      "id": "(S)1156"
+    },
+    "Chef Coat": {
+      "id": "(S)1213"
+    },
+    "Circuitboard Shirt": {
+      "id": "(S)1234"
+    },
+    "Classic Overalls": {
+      "id": "(S)1000"
+    },
+    "Classy Top (F)": {
+      "id": "(S)1202"
+    },
+    "Classy Top (M)": {
+      "id": "(S)1201"
+    },
+    "Collared Shirt": {
+      "id": "(S)1248"
+    },
+    "Copper Breastplate": {
+      "id": "(S)1149"
+    },
+    "Cowboy Poncho": {
+      "id": "(S)1131"
+    },
+    "Crab Cake Shirt": {
+      "id": "(S)1276"
+    },
+    "Crop Tank Top (F)": {
+      "id": "(S)1133"
+    },
+    "Crop Tank Top (M)": {
+      "id": "(S)1132"
+    },
+    "Crop Top Shirt": {
+      "id": "(S)1141"
+    },
+    "Dark Bandana Shirt": {
+      "id": "(S)1262"
+    },
+    "Dark Highlight Shirt": {
+      "id": "(S)1263"
+    },
+    "Dark Jacket": {
+      "id": "(S)1211"
+    },
+    "Dark Shirt": {
+      "id": "(S)1003"
+    },
+    "Dark Striped Shirt": {
+      "id": "(S)1194"
+    },
+    "Darkness Suit": {
+      "id": "(S)1289"
+    },
+    "Denim Jacket": {
+      "id": "(S)1163"
+    },
+    "Dirt Shirt": {
+      "id": "(S)1275"
+    },
+    "Doll Shirt": {
+      "id": "(S)1229"
+    },
+    "Emily's Magic Shirt": {
+      "id": "(S)1127"
+    },
+    "Excavator Shirt": {
+      "id": "(S)1208"
+    },
+    "Faded Denim Shirt": {
+      "id": "(S)1279"
+    },
+    "Fake Muscles Shirt": {
+      "id": "(S)1153"
+    },
+    "Fancy Red Blouse": {
+      "id": "(S)1035"
+    },
+    "Fish Shirt": {
+      "id": "(S)1158"
+    },
+    "Fishing Vest": {
+      "id": "(S)1157"
+    },
+    "Flames Shirt": {
+      "id": "(S)1226"
+    },
+    "Flannel Shirt": {
+      "id": "(S)1154"
+    },
+    "Fluffy Shirt": {
+      "id": "(S)1235"
+    },
+    "Fried Egg Shirt": {
+      "id": "(S)1246"
+    },
+    "Fringed Vest": {
+      "id": "(S)1283"
+    },
+    "Gaudy Shirt": {
+      "id": "(S)1170"
+    },
+    "Ginger Overalls": {
+      "id": "(S)1292"
+    },
+    "Globby Shirt": {
+      "id": "(S)1284"
+    },
+    "Gold Breastplate": {
+      "id": "(S)1150"
+    },
+    "Gold Trimmed Shirt": {
+      "id": "(S)1222"
+    },
+    "Golden Shirt": {
+      "id": "(S)1238"
+    },
+    "Good Grief Shirt": {
+      "id": "(S)1008"
+    },
+    "Goodnight Shirt": {
+      "id": "(S)1188"
+    },
+    "Gray Hoodie": {
+      "id": "(S)1160"
+    },
+    "Gray Suit": {
+      "id": "(S)1183"
+    },
+    "Gray Vest": {
+      "id": "(S)1167"
+    },
+    "Green Belted Shirt": {
+      "id": "(S)1189"
+    },
+    "Green Buttoned Vest": {
+      "id": "(S)1281"
+    },
+    "Green Flannel Shirt": {
+      "id": "(S)1255"
+    },
+    "Green Jacket Shirt": {
+      "id": "(S)1270"
+    },
+    "Green Overalls": {
+      "id": "(S)1007"
+    },
+    "Green Thumb Shirt": {
+      "id": "(S)1205"
+    },
+    "Green Tunic": {
+      "id": "(S)1034"
+    },
+    "Green Vest": {
+      "id": "(S)1020"
+    },
+    "Happy Shirt": {
+      "id": "(S)1190"
+    },
+    "Heart Shirt": {
+      "id": "(S)1210"
+    },
+    "High Heat Shirt": {
+      "id": "(S)1225"
+    },
+    "High-Waisted Shirt": {
+      "id": "(S)1175"
+    },
+    "Holiday Shirt": {
+      "id": "(S)1186"
+    },
+    "Hot Pink Shirt": {
+      "id": "(S)1295"
+    },
+    "Iridium Breastplate": {
+      "id": "(S)1151"
+    },
+    "Iridium Energy Shirt": {
+      "id": "(S)1179"
+    },
+    "Island Bikini": {
+      "id": "(S)1297"
+    },
+    "Jester Shirt": {
+      "id": "(S)1192"
+    },
+    "Jewelry Shirt": {
+      "id": "(S)1230"
+    },
+    "Kelp Shirt": {
+      "id": "(S)1168"
+    },
+    "Leafy Top": {
+      "id": "(S)1187"
+    },
+    "Letterman Jacket": {
+      "id": "(S)1137"
+    },
+    "Light Blue Shirt": {
+      "id": "(S)1005"
+    },
+    "Light Blue Striped Shirt": {
+      "id": "(S)1026"
+    },
+    "Lime Green Striped Shirt": {
+      "id": "(S)1012"
+    },
+    "Lime Green Tunic": {
+      "id": "(S)1042"
+    },
+    "Magenta Shirt": {
+      "id": "(S)1291"
+    },
+    "Magic Sprinkle Shirt": {
+      "id": "(S)1997"
+    },
+    "Mayoral Suspenders": {
+      "id": "(S)1017"
+    },
+    "Midnight Dog Jacket": {
+      "id": "(S)1285"
+    },
+    "Mineral Dog Jacket": {
+      "id": "(S)1290"
+    },
+    "Mint Blouse": {
+      "id": "(S)1002"
+    },
+    "Morel Shirt": {
+      "id": "(S)1257"
+    },
+    "Mystery Shirt": {
+      "id": "(S)MysteryShirt"
+    },
+    "Navy Tuxedo": {
+      "id": "(S)1185"
+    },
+    "Neat Bow Shirt": {
+      "id": "(S)1173"
+    },
+    "Necklace Shirt": {
+      "id": "(S)1220"
+    },
+    "Night Sky Shirt": {
+      "id": "(S)1016"
+    },
+    "Oasis Gown": {
+      "id": "(S)1171"
+    },
+    "Ocean Shirt": {
+      "id": "(S)1193"
+    },
+    "Officer Uniform": {
+      "id": "(S)1240"
+    },
+    "Oil Stained Shirt": {
+      "id": "(S)1256"
+    },
+    "Omni Shirt": {
+      "id": "(S)1264"
+    },
+    "Orange Bow Shirt": {
+      "id": "(S)1267"
+    },
+    "Orange Gi": {
+      "id": "(S)1166"
+    },
+    "Orange Shirt": {
+      "id": "(S)1015"
+    },
+    "Pendant Shirt": {
+      "id": "(S)1224"
+    },
+    "Pink Striped Shirt": {
+      "id": "(S)1027"
+    },
+    "Plain Overalls": {
+      "id": "(S)1216"
+    },
+    "Plain Shirt (F)": {
+      "id": "(S)1041"
+    },
+    "Plain Shirt (M)": {
+      "id": "(S)1038"
+    },
+    "Polka Dot Shirt": {
+      "id": "(S)1272"
+    },
+    "Pour-Over Shirt": {
+      "id": "(S)1269"
+    },
+    "Prismatic Shirt": {
+      "id": "(S)1999"
+    },
+    "Purple Blouse": {
+      "id": "(S)1197"
+    },
+    "Rain Coat": {
+      "id": "(S)1260"
+    },
+    "Ranger Uniform": {
+      "id": "(S)1241"
+    },
+    "Red Buttoned Vest": {
+      "id": "(S)1280"
+    },
+    "Red Flannel Shirt": {
+      "id": "(S)1251"
+    },
+    "Red Hoodie": {
+      "id": "(S)1162"
+    },
+    "Red Striped Shirt": {
+      "id": "(S)1013"
+    },
+    "Red Tuxedo": {
+      "id": "(S)1184"
+    },
+    "Regal Mantle": {
+      "id": "(S)1243"
+    },
+    "Relic Shirt": {
+      "id": "(S)1244"
+    },
+    "Retro Rainbow Shirt": {
+      "id": "(S)1039"
+    },
+    "Rusty Shirt": {
+      "id": "(S)1233"
+    },
+    "Sailor Shirt": {
+      "id": "(S)1261"
+    },
+    "Sauce-Stained Shirt": {
+      "id": "(S)1236"
+    },
+    "Shirt": {
+      "id": "(S)1182"
+    },
+    "Shirt And Belt": {
+      "id": "(S)1159"
+    },
+    "Shirt And Tie": {
+      "id": "(S)1123"
+    },
+    "Shirt O' The Sea": {
+      "id": "(S)1214"
+    },
+    "Shirt with Bow": {
+      "id": "(S)1191"
+    },
+    "Short Jacket": {
+      "id": "(S)1271"
+    },
+    "Shrimp Enthusiast Shirt": {
+      "id": "(S)1286"
+    },
+    "Silky Shirt": {
+      "id": "(S)1277"
+    },
+    "Skeleton Shirt": {
+      "id": "(S)1014"
+    },
+    "Skull Shirt": {
+      "id": "(S)1004"
+    },
+    "Sleeveless Overalls": {
+      "id": "(S)1217"
+    },
+    "Slime Shirt": {
+      "id": "(S)1207"
+    },
+    "Soft Arrow Shirt": {
+      "id": "(S)1228"
+    },
+    "Sports Shirt": {
+      "id": "(S)1209"
+    },
+    "Spring Shirt": {
+      "id": "(S)1258"
+    },
+    "Star Shirt": {
+      "id": "(S)1200"
+    },
+    "Steel Breastplate": {
+      "id": "(S)1148"
+    },
+    "Store Owner's Jacket": {
+      "id": "(S)1030"
+    },
+    "Strapped Top": {
+      "id": "(S)1139"
+    },
+    "Striped Shirt": {
+      "id": "(S)1128"
+    },
+    "Studded Vest": {
+      "id": "(S)1169"
+    },
+    "Sugar Shirt": {
+      "id": "(S)1254"
+    },
+    "Suit Top": {
+      "id": "(S)1010"
+    },
+    "Sunset Shirt": {
+      "id": "(S)1212"
+    },
+    "Tan Striped Shirt": {
+      "id": "(S)1006"
+    },
+    "Tank Top (F)": {
+      "id": "(S)1130"
+    },
+    "Tank Top (M)": {
+      "id": "(S)1129"
+    },
+    "Tea Shirt": {
+      "id": "(S)1287"
+    },
+    "Tie Dye Shirt": {
+      "id": "(S)1143"
+    },
+    "Toasted Shirt": {
+      "id": "(S)1249"
+    },
+    "Toga Shirt": {
+      "id": "(S)1199"
+    },
+    "Tomato Shirt": {
+      "id": "(S)1282"
+    },
+    "Tortilla Shirt": {
+      "id": "(S)1252"
+    },
+    "Track Jacket": {
+      "id": "(S)1164"
+    },
+    "Trash Can Shirt": {
+      "id": "(S)1232"
+    },
+    "Trinket Shirt": {
+      "id": "(S)1288"
+    },
+    "Tropical Sunrise Shirt": {
+      "id": "(S)1296"
+    },
+    "Tube Top": {
+      "id": "(S)1142"
+    },
+    "Tunnelers Jersey": {
+      "id": "(S)1180"
+    },
+    "Turtleneck Sweater": {
+      "id": "(S)1178"
+    },
+    "Vacation Shirt": {
+      "id": "(S)1204"
+    },
+    "Vintage Polo": {
+      "id": "(S)1198"
+    },
+    "Warm Flannel Shirt": {
+      "id": "(S)1253"
+    },
+    "White Dot Shirt": {
+      "id": "(S)1273"
+    },
+    "White Gi": {
+      "id": "(S)1165"
+    },
+    "White Overalls": {
+      "id": "(S)1268"
+    },
+    "White Overalls Shirt": {
+      "id": "(S)1071"
+    },
+    "Work Shirt": {
+      "id": "(S)1029"
+    },
+    "Wumbus Shirt": {
+      "id": "(S)1135"
+    },
+    "Yellow and Green Shirt": {
+      "id": "(S)1021"
+    },
+    "Yellow Suit": {
+      "id": "(S)1294"
+    },
+    "Yoba Shirt": {
+      "id": "(S)1219"
+    },
+    "Advanced Iridium Rod": {
+      "id": "(T)AdvancedIridiumRod"
+    },
+    "Axe": {
+      "id": "(T)Axe"
+    },
+    "Bamboo Pole": {
+      "id": "(T)BambooPole"
+    },
+    "Copper Axe": {
+      "id": "(T)CopperAxe"
+    },
+    "Copper Hoe": {
+      "id": "(T)CopperHoe"
+    },
+    "Copper Pickaxe": {
+      "id": "(T)CopperPickaxe"
+    },
+    "Copper Trash Can": {
+      "id": "(T)CopperTrashCan"
+    },
+    "Copper Watering Can": {
+      "id": "(T)CopperWateringCan"
+    },
+    "Fiberglass Rod": {
+      "id": "(T)FiberglassRod"
+    },
+    "Gold Axe": {
+      "id": "(T)GoldAxe"
+    },
+    "Gold Hoe": {
+      "id": "(T)GoldHoe"
+    },
+    "Gold Pickaxe": {
+      "id": "(T)GoldPickaxe"
+    },
+    "Gold Trash Can": {
+      "id": "(T)GoldTrashCan"
+    },
+    "Gold Watering Can": {
+      "id": "(T)GoldWateringCan"
+    },
+    "Hoe": {
+      "id": "(T)Hoe"
+    },
+    "Iridium Axe": {
+      "id": "(T)IridiumAxe"
+    },
+    "Iridium Hoe": {
+      "id": "(T)IridiumHoe"
+    },
+    "Iridium Pickaxe": {
+      "id": "(T)IridiumPickaxe"
+    },
+    "Iridium Rod": {
+      "id": "(T)IridiumRod"
+    },
+    "Iridium Trash Can": {
+      "id": "(T)IridiumTrashCan"
+    },
+    "Iridium Watering Can": {
+      "id": "(T)IridiumWateringCan"
+    },
+    "Lantern": {
+      "id": "(T)Lantern"
+    },
+    "Milk Pail": {
+      "id": "(T)MilkPail"
+    },
+    "Pan": {
+      "id": "(T)Pan"
+    },
+    "Pickaxe": {
+      "id": "(T)Pickaxe"
+    },
+    "Return Scepter": {
+      "id": "(T)ReturnScepter"
+    },
+    "Shears": {
+      "id": "(T)Shears"
+    },
+    "Steel Axe": {
+      "id": "(T)SteelAxe"
+    },
+    "Steel Hoe": {
+      "id": "(T)SteelHoe"
+    },
+    "Steel Pickaxe": {
+      "id": "(T)SteelPickaxe"
+    },
+    "Steel Trash Can": {
+      "id": "(T)SteelTrashCan"
+    },
+    "Steel Watering Can": {
+      "id": "(T)SteelWateringCan"
+    },
+    "Training Rod": {
+      "id": "(T)TrainingRod"
+    },
+    "Watering Can": {
+      "id": "(T)WateringCan"
+    },
+    "BasiliskPaw": {
+      "id": "(TR)BasiliskPaw"
+    },
+    "FairyBox": {
+      "id": "(TR)FairyBox"
+    },
+    "FrogEgg": {
+      "id": "(TR)FrogEgg"
+    },
+    "IceRod": {
+      "id": "(TR)IceRod"
+    },
+    "IridiumSpur": {
+      "id": "(TR)IridiumSpur"
+    },
+    "MagicHairDye": {
+      "id": "(TR)MagicHairDye"
+    },
+    "MagicQuiver": {
+      "id": "(TR)MagicQuiver"
+    },
+    "ParrotEgg": {
+      "id": "(TR)ParrotEgg"
+    },
+    "Abby's Planchette": {
+      "id": "(W)40"
+    },
+    "Alex's Bat": {
+      "id": "(W)25"
+    },
+    "Bone Sword": {
+      "id": "(W)5"
+    },
+    "Broken Trident": {
+      "id": "(W)51"
+    },
+    "Burglar's Shank": {
+      "id": "(W)18"
+    },
+    "Carving Knife": {
+      "id": "(W)16"
+    },
+    "Claymore": {
+      "id": "(W)10"
+    },
+    "Crystal Dagger": {
+      "id": "(W)21"
+    },
+    "Cutlass": {
+      "id": "(W)44"
+    },
+    "Dark Sword": {
+      "id": "(W)2"
+    },
+    "Dragontooth Club": {
+      "id": "(W)58"
+    },
+    "Dragontooth Cutlass": {
+      "id": "(W)57"
+    },
+    "Dragontooth Shiv": {
+      "id": "(W)59"
+    },
+    "Dwarf Dagger": {
+      "id": "(W)56"
+    },
+    "Dwarf Hammer": {
+      "id": "(W)55"
+    },
+    "Dwarf Sword": {
+      "id": "(W)54"
+    },
+    "Elf Blade": {
+      "id": "(W)20"
+    },
+    "Elliott's Pencil": {
+      "id": "(W)35"
+    },
+    "Femur": {
+      "id": "(W)31"
+    },
+    "Forest Sword": {
+      "id": "(W)15"
+    },
+    "Galaxy Dagger": {
+      "id": "(W)23"
+    },
+    "Galaxy Hammer": {
+      "id": "(W)29"
+    },
+    "Galaxy Slingshot": {
+      "id": "(W)34"
+    },
+    "Galaxy Sword": {
+      "id": "(W)4"
+    },
+    "Golden Scythe": {
+      "id": "(W)53"
+    },
+    "Haley's Iron": {
+      "id": "(W)42"
+    },
+    "Harvey's Mallet": {
+      "id": "(W)37"
+    },
+    "Holy Blade": {
+      "id": "(W)3"
+    },
+    "Infinity Blade": {
+      "id": "(W)62"
+    },
+    "Infinity Dagger": {
+      "id": "(W)64"
+    },
+    "Infinity Gavel": {
+      "id": "(W)63"
+    },
+    "Insect Head": {
+      "id": "(W)13"
+    },
+    "Iridium Needle": {
+      "id": "(W)61"
+    },
+    "Iridium Scythe": {
+      "id": "(W)66"
+    },
+    "Iron Dirk": {
+      "id": "(W)17"
+    },
+    "Iron Edge": {
+      "id": "(W)6"
+    },
+    "Kudgel": {
+      "id": "(W)46"
+    },
+    "Lava Katana": {
+      "id": "(W)9"
+    },
+    "Lead Rod": {
+      "id": "(W)26"
+    },
+    "Leah's Whittler": {
+      "id": "(W)39"
+    },
+    "Maru's Wrench": {
+      "id": "(W)36"
+    },
+    "Master Slingshot": {
+      "id": "(W)33"
+    },
+    "Meowmere": {
+      "id": "(W)65"
+    },
+    "Neptune's Glaive": {
+      "id": "(W)14"
+    },
+    "Obsidian Edge": {
+      "id": "(W)8"
+    },
+    "Ossified Blade": {
+      "id": "(W)60"
+    },
+    "Penny's Fryer": {
+      "id": "(W)38"
+    },
+    "Pirate's Sword": {
+      "id": "(W)43"
+    },
+    "Rapier": {
+      "id": "(W)49"
+    },
+    "Rusty Sword": {
+      "id": "(W)0"
+    },
+    "Sam's Old Guitar": {
+      "id": "(W)30"
+    },
+    "Scythe": {
+      "id": "(W)47"
+    },
+    "Seb's Lost Mace": {
+      "id": "(W)41"
+    },
+    "Shadow Dagger": {
+      "id": "(W)19"
+    },
+    "Silver Saber": {
+      "id": "(W)1"
+    },
+    "Slingshot": {
+      "id": "(W)32"
+    },
+    "Steel Falchion": {
+      "id": "(W)50"
+    },
+    "Steel Smallsword": {
+      "id": "(W)11"
+    },
+    "Tempered Broadsword": {
+      "id": "(W)52"
+    },
+    "Templar's Blade": {
+      "id": "(W)7"
+    },
+    "The Slammer": {
+      "id": "(W)28"
+    },
+    "Wicked Kris": {
+      "id": "(W)45"
+    },
+    "Wind Spire": {
+      "id": "(W)22"
+    },
+    "Wood Club": {
+      "id": "(W)24"
+    },
+    "Wood Mallet": {
+      "id": "(W)27"
+    },
+    "Wooden Blade": {
+      "id": "(W)12"
+    },
+    "Yeti Tooth": {
+      "id": "(W)48"
+    },
+    "Wallpaper": {
+      "id": "(WP)MoreWalls:25"
+    }
+  }
+}
